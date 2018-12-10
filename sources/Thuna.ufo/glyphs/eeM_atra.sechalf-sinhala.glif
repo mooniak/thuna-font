@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eeMatra.sechalf-sinhala" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-77" y="468" type="line"/>
+      <point x="-77" y="665" type="line"/>
+      <point x="-122" y="665" type="line"/>
+      <point x="-122" y="468" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-10 09:53:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-sinhala" format="1">
+  <advance width="576"/>
+  <outline>
+    <component base="nga-sinhala"/>
+    <component base="virama-sinhala" xOffset="279" yOffset="87"/>
+  </outline>
+</glyph>
