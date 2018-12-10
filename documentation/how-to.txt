@@ -1,0 +1,19 @@
+A. Open Thuna.sfd file in Fontforge. It is inside `sources/1-drawing/``
+B. It is already populated with some glyphs from your font. But majority is glyphs from Kaputa font.
+C. Once you completely fill these boxes we can finish the font.
+D. See the video for next steps.
+
+1. Open your illustrator file
+2. Open the letter-template.svg file
+3. Copy the letters and put them in the box
+4. Make the color black
+5. Adjust size using the guidlines in the file
+6. Save your file as a svg
+7. Find the corrsponding letter in the Fontforge glyph view
+8. Double click and open corresponding letter/glyph in the grid
+9. Open File > Import
+10 Find the letter-template.svg file you just saved
+11. Select that and import
+12. Use Two sidebearing lines to fix the letterspace.
+13. You can see the letter you just imported in some other boxes too. It means those other boxes are using a reference of the original shape you imported.
+14. Always save SFD your file.
