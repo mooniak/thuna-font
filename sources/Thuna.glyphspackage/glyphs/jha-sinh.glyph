@@ -1,0 +1,27 @@
+{
+color = 4;
+glyphname = "jha-sinh";
+lastChange = "2018-02-19 20:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+metricRight = sinDha;
+shapes = (
+{
+alignment = -1;
+pos = (462,0);
+ref = "dha-sinh";
+},
+{
+alignment = -1;
+pos = (89,0);
+ref = "ka-sinh.half";
+}
+);
+vertWidth = 0;
+width = 1017;
+}
+);
+note = "";
+unicode = 3491;
+}

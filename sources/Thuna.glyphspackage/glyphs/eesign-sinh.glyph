@@ -1,0 +1,26 @@
+{
+glyphname = "eesign-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(535,672,l),
+(539,496,l),
+(582,495,l),
+(580,672,l)
+);
+},
+{
+ref = "esign-sinh";
+}
+);
+vertWidth = 0;
+width = 621;
+}
+);
+note = "";
+unicode = 3546;
+}

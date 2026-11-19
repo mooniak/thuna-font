@@ -1,0 +1,23 @@
+{
+color = 4;
+glyphname = "oo-sinh";
+lastChange = "2018-02-19 20:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "o-sinh";
+},
+{
+pos = (569,0);
+ref = "virama-sinh.alt";
+}
+);
+vertWidth = 0;
+width = 569;
+}
+);
+note = "";
+unicode = 3477;
+}

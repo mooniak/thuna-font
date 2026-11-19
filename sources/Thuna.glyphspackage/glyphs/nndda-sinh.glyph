@@ -1,0 +1,35 @@
+{
+color = 4;
+glyphname = "nndda-sinh";
+lastChange = "2018-02-19 20:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(47,328,o),
+(67,419,o),
+(192,419,c),
+(237,429,l),
+(251,456,l),
+(246,466,l),
+(98,466,o),
+(-11,425,o),
+(29,138,c),
+(66,148,l)
+);
+},
+{
+pos = (63,0);
+ref = "dda-sinh";
+}
+);
+vertWidth = 0;
+width = 644;
+}
+);
+note = "";
+unicode = 3500;
+}

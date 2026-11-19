@@ -1,0 +1,17 @@
+{
+glyphname = "osign-sinh.sechalf";
+lastChange = "2018-12-10 09:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "aasign-sinh";
+}
+);
+vertWidth = 0;
+width = 336;
+}
+);
+note = "";
+}

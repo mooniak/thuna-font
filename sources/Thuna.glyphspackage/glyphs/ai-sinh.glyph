@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = "ai-sinh";
+lastChange = "2018-02-19 20:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+alignment = -1;
+pos = (425,0);
+ref = "e-sinh";
+},
+{
+alignment = -1;
+pos = (38,0);
+ref = "esign-sinh";
+}
+);
+vertWidth = 0;
+width = 987;
+}
+);
+note = "";
+unicode = 3475;
+}

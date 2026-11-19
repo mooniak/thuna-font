@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = "nnga-sinh";
+lastChange = "2018-02-19 20:53:13 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+metricRight = sinGa;
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,304,o),
+(77,455,o),
+(212,455,c),
+(257,465,l),
+(271,502,l),
+(249,502,l),
+(101,502,o),
+(-1,401,o),
+(49,174,c),
+(86,184,l)
+);
+},
+{
+pos = (92,0);
+ref = "ga-sinh";
+}
+);
+vertWidth = 0;
+width = 682;
+}
+);
+note = "";
+unicode = 3487;
+}
