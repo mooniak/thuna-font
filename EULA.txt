@@ -1,0 +1,16 @@
+Mooniak Fonts End User License Agreement (EULA)
+===============================================
+
+PLACEHOLDER — the full terms of this agreement have not been published yet.
+They will replace this file. Until then, the following applies.
+
+Font Software: Alakamanda
+
+This Font Software is proprietary. All rights are reserved by its copyright
+holders. It is NOT open source and is NOT licensed under the SIL Open Font
+License or any other open license.
+
+No right to use, install, copy, modify, embed, convert, or redistribute this
+Font Software is granted except under a separate written license from Mooniak.
+
+For licensing enquiries contact hello@mooniak.com.
