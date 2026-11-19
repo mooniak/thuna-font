@@ -3,85 +3,13 @@
 .formatVersion = 3;
 customParameters = (
 {
-name = compatibleFullName;
-value = "Sinhala Font Bolierplate";
-},
-{
-name = hheaAscender;
-value = 746;
-},
-{
-name = hheaDescender;
-value = -254;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
 name = fsType;
 value = (
 );
 },
 {
-name = typoAscender;
-value = 746;
-},
-{
-name = typoDescender;
-value = -254;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-33,
-73
-);
-},
-{
-name = underlinePosition;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 2.920; DEV";
-},
-{
 name = vendorID;
-value = PfEd;
-},
-{
-name = license;
-value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.";
-},
-{
-name = licenseURL;
-value = "http://www.gnu.org/licenses/";
-},
-{
-name = postscriptFullName;
-value = Thuna;
-},
-{
-name = postscriptFontName;
-value = Thuna;
-},
-{
-name = preferredFamilyName;
-value = "Sinhala Font Bolierplate";
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
+value = MNIK;
 },
 {
 name = openTypeOS2FamilyClass;
@@ -89,32 +17,6 @@ value = (
 0,
 0
 );
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = "Sinhala Font Bolierplate Regular";
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = codePageRanges;
-value = (
-1252
-);
-},
-{
-name = winAscent;
-value = 775;
-},
-{
-name = winDescent;
-value = 219;
 },
 {
 name = weightClass;
@@ -486,10 +388,6 @@ fontMaster = (
 {
 customParameters = (
 {
-name = compatibleFullName;
-value = "Sinhala Font Bolierplate";
-},
-{
 name = hheaAscender;
 value = 746;
 },
@@ -500,11 +398,6 @@ value = -254;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = fsType;
-value = (
-);
 },
 {
 name = typoAscender;
@@ -519,76 +412,10 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = unicodeRanges;
-value = (
-0,
-33,
-73
-);
-},
-{
-name = underlinePosition;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 2.920; DEV";
-},
-{
-name = vendorID;
-value = PfEd;
-},
-{
-name = license;
-value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.";
-},
-{
-name = licenseURL;
-value = "http://www.gnu.org/licenses/";
-},
-{
-name = postscriptFullName;
-value = Thuna;
-},
-{
-name = postscriptFontName;
-value = Thuna;
-},
-{
-name = preferredFamilyName;
-value = "Sinhala Font Bolierplate";
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
-},
-{
 name = openTypeOS2FamilyClass;
 value = (
 0,
 0
-);
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = "Sinhala Font Bolierplate Regular";
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = codePageRanges;
-value = (
-1252
 );
 },
 {
@@ -672,20 +499,48 @@ type = "italic angle";
 );
 properties = (
 {
-key = copyrights;
-value = "Copyright (c) 2017 ";
-},
-{
 key = designers;
-value = "Multiple designers";
-},
+values = (
 {
-key = designerURL;
-value = mooniak.com;
+language = dflt;
+value = "Aravinda Illangangedara";
+}
+);
 },
 {
 key = manufacturers;
-value = Mooniak;
+values = (
+{
+language = dflt;
+value = mooniak;
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2017 The Thuna Project Authors (https://github.com/mooniak/thuna-font)";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the Mooniak Fonts EULA. It is not open source and is not licensed under the SIL Open Font License. For licensing, contact hello@mooniak.com.";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://mooniak.com/";
 }
 );
 stems = (

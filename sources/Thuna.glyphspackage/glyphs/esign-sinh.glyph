@@ -1,4 +1,5 @@
 {
+category = Mark;
 glyphname = "esign-sinh";
 lastChange = "2018-02-19 20:08:19 +0000";
 layers = (
@@ -48,5 +49,6 @@ width = 417;
 }
 );
 note = "";
+subCategory = Spacing;
 unicode = 3545;
 }
