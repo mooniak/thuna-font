@@ -1,0 +1,730 @@
+{
+.appVersion = "895";
+.formatVersion = 3;
+classes = (
+{
+code = ".null A B C CR D E F G H I IiMatra.alt-sinhala IiMatra.alt1-sinhala IiMatra.alt2-sinhala J K L M N O P Q R S T U V W X Y Z _i.part _ii.part a a-sinhala aa-sinhala aaMatra-sinhala aaeMatra-sinhala ae-sinhala aeMatra-sinhala aee-sinhala ai-sinhala aiMatra-sinhala ampersand anusvaraya-sinhala approxequal approxequal.osf approxequal.tf asciicircum asciitilde asciitilde.osf asterisk at au-sinhala auMatra-sinhala auMatraAu.sechalf b b-sinhala ba-sinhala backslash bh-sinhala bha-sinhala bhra-sinhala bi-sinhala bii-sinhala bracketleft bracketright brokenbar bulletoperator bulletoperator.osf bulletoperator.tf c c-sinhala ca-sinhala ch-sinhala cha-sinhala ci-sinhala cii-sinhala colon comma copyright d d-sinhala d_dha-sinhala d_va-sinhala d_vi-sinhala d_vii-sinhala da-sinhala da_ra-sinhala dd-sinhala ddIi-sinhala dda-sinhala dddh-sinhala ddh-sinhala ddha-sinhala ddi-sinhala dh-sinhala dhI-sinhala dhIi-sinhala dha-sinhala divide divide.osf divide.tf divisionslash divisionslash.tf dollar dottedCircle du-sinhala duu-sinhala dv-sinhala e e-sinhala eMatra-sinhala ee-sinhala eeMatra-sinhala eeMatra.sechalf-sinhala eight eightlith-sinhala equal equal.osf equal.tf euro exclam f f-sinhala fa-sinhala five fivelith-sinhala four fourlith-sinhala g g-sinhala ga-sinhala ga.half-sinhala gh-sinhala gha-sinhala grave greater greater.osf greater.tf greaterequal greaterequal.osf greaterequal.tf guillemetleft guillemetright h h-sinhala ha-sinhala hyphen i i-sinhala iMatra-sinhala iMatra.alt-sinhala iMatra.alt1-sinhala iMatra.alt2-sinhala ii-sinhala iiMatra-sinhala j j-sinhala ja-sinhala jh-sinhala jha-sinhala jhi-sinhala jhii-sinhala jny jny-sinhala jnya-sinhala k k-sinhala k_ssa-sinhala k_va-sinhala ka-sinhala ka.half-sinhala kh-sinhala kha-sinhala khi-sinhala khii-sinhala kunddaliya-sinhala l l-sinhala lVocalic-sinhala lVocalicMatra-sinhala la-sinhala less less.osf less.tf lessequal lessequal.osf lessequal.tf ll-sinhala llVocalic-sinhala llVocalicMatra-sinhala lla-sinhala llu-sinhala logicalnot.osf lu-sinhala luu-sinhala m m-sinhala ma-sinhala mb-sinhala mba-sinhala mbi-sinhala mbii-sinhala mi-sinhala mii-sinhala minus minus.osf minus.tf mooniak multiply multiply.osf multiply.tf n n-sinhala n_va-sinhala na-sinhala nbspace nd-sinhala nd_ra-sinhala nda-sinhala ndaa.ss01-sinhala ndh-sinhala ndj-sinhala ndu-sinhala nduu-sinhala ng-sinhala nga-sinhala ngi-sinhala ngii-sinhala nine ninelith-sinhala nn-sinhala nna-sinhala nndd-sinhala nnddI-sinhala nnddIi-sinhala nndda-sinhala nng-sinhala nnga-sinhala notequal notequal.osf notequal.tf nth-sinhala numbersign ny-sinhala nya-sinhala nya_uMatra-sinhala nya_uuMatra-sinhala nyaa.ss01-sinhala nyja-sinhala o o-sinhala oMatra-sinhala one onelith-sinhala oo-sinhala ooMatra-sinhala ooMatra.sechalf-sinhala p p-sinhala pa-sinhala paragraph parenleft parenright percent period periodcentered ph-sinhala pha-sinhala plus plus.osf plus.tf plusminus plusminus.osf plusminus.tf q question quotedbl quotesingle r r-sinhala rVocalic-sinhala rVocalicMatra-sinhala r_aeMatra-sinhala r_aeeMatra-sinhala ra-sinhala registered reph-sinhala ri-sinhala rii-sinhala rrVocalic-sinhala rrVocalicMatra-sinhala s s-sinhala sa-sinhala section semicolon seven sevenlith-sinhala sh-sinhala sh_rii-sinhala sha-sinhala sinJnyUu sinMatraO.sechalf sinNa.half sinRakar six sixlith-sinhala slash space ss-sinhala ssa-sinhala t t-sinhala t_va-sinhala ta-sinhala ta.half-sinhala th-sinhala tha-sinhala three threelith-sinhala trademark tt-sinhala tt_ttha-sinhala tta-sinhala tth-sinhala ttha-sinhala tti-sinhala ttii-sinhala tttth-sinhala two twolith-sinhala u u-sinhala uMatra-sinhala uMatra.alt-sinhala underscore uu-sinhala uuMatra-sinhala uuMatra.alt-sinhala v v-sinhala va-sinhala vi-sinhala vii-sinhala virama-hala virama-sinhala virama.alt-sinhala virama.touch-sinhala visargaya-sinhala w x y y-sinhala ya-sinhala ya.pos-sinhala z zero zerolith-sinhala zerowidthjoiner zerowidthnonjoiner";
+name = GDEF_Simple;
+}
+);
+customParameters = (
+{
+name = compatibleFullName;
+value = "Sinhala Font Bolierplate";
+},
+{
+name = hheaAscender;
+value = 746;
+},
+{
+name = hheaDescender;
+value = -254;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = typoAscender;
+value = 746;
+},
+{
+name = typoDescender;
+value = -254;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+33,
+73
+);
+},
+{
+name = underlinePosition;
+value = 0;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = versionString;
+value = "Version 2.920; DEV";
+},
+{
+name = vendorID;
+value = PfEd;
+},
+{
+name = license;
+value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.";
+},
+{
+name = licenseURL;
+value = "http://www.gnu.org/licenses/";
+},
+{
+name = postscriptFullName;
+value = Thuna;
+},
+{
+name = postscriptFontName;
+value = Thuna;
+},
+{
+name = preferredFamilyName;
+value = "Sinhala Font Bolierplate";
+},
+{
+name = preferredSubfamilyName;
+value = Regular;
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+0,
+0
+);
+},
+{
+name = postscriptWeightName;
+value = Regular;
+},
+{
+name = styleMapFamilyName;
+value = "Sinhala Font Bolierplate Regular";
+},
+{
+name = styleMapStyleName;
+value = regular;
+},
+{
+name = codePageRanges;
+value = (
+1252
+);
+},
+{
+name = winAscent;
+value = 775;
+},
+{
+name = winDescent;
+value = 219;
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = widthClass;
+value = 5;
+},
+{
+name = glyphOrder;
+value = (
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+"d_dha-sinhala",
+"d_va-sinhala",
+"d_vi-sinhala",
+"d_vii-sinhala",
+"da_ra-sinhala",
+"k_ssa-sinhala",
+"k_va-sinhala",
+"n_va-sinhala",
+"nd_ra-sinhala",
+"sh_rii-sinhala",
+"t_va-sinhala",
+"tt_ttha-sinhala",
+"a-sinhala",
+"aa-sinhala",
+"ae-sinhala",
+"aee-sinhala",
+"ai-sinhala",
+"au-sinhala",
+"b-sinhala",
+"ba-sinhala",
+"bh-sinhala",
+"bha-sinhala",
+"bi-sinhala",
+"bii-sinhala",
+"c-sinhala",
+"ca-sinhala",
+"ch-sinhala",
+"cha-sinhala",
+"ci-sinhala",
+"cii-sinhala",
+"d-sinhala",
+"da-sinhala",
+"dd-sinhala",
+"dda-sinhala",
+"ddh-sinhala",
+"ddha-sinhala",
+"ddi-sinhala",
+"dh-sinhala",
+"dha-sinhala",
+"du-sinhala",
+"duu-sinhala",
+"dv-sinhala",
+"e-sinhala",
+"ee-sinhala",
+"f-sinhala",
+"fa-sinhala",
+"g-sinhala",
+"ga-sinhala",
+"gh-sinhala",
+"gha-sinhala",
+"h-sinhala",
+"ha-sinhala",
+"i-sinhala",
+"ii-sinhala",
+"j-sinhala",
+"ja-sinhala",
+"jh-sinhala",
+"jha-sinhala",
+"jhi-sinhala",
+"jhii-sinhala",
+"jny-sinhala",
+"jnya-sinhala",
+"k-sinhala",
+"ka-sinhala",
+"kh-sinhala",
+"kha-sinhala",
+"khi-sinhala",
+"khii-sinhala",
+"l-sinhala",
+"lVocalic-sinhala",
+"la-sinhala",
+"ll-sinhala",
+"llVocalic-sinhala",
+"lla-sinhala",
+"llu-sinhala",
+"lu-sinhala",
+"luu-sinhala",
+"m-sinhala",
+"ma-sinhala",
+"mb-sinhala",
+"mba-sinhala",
+"mbi-sinhala",
+"mbii-sinhala",
+"mi-sinhala",
+"mii-sinhala",
+"n-sinhala",
+"na-sinhala",
+"nd-sinhala",
+"nda-sinhala",
+"ndh-sinhala",
+"ndj-sinhala",
+"ndu-sinhala",
+"nduu-sinhala",
+"ng-sinhala",
+"nga-sinhala",
+"ngi-sinhala",
+"ngii-sinhala",
+"nn-sinhala",
+"nna-sinhala",
+"nndda-sinhala",
+"nng-sinhala",
+"nnga-sinhala",
+"nth-sinhala",
+"ny-sinhala",
+"nya-sinhala",
+"nya_uMatra-sinhala",
+"nya_uuMatra-sinhala",
+"nyja-sinhala",
+"o-sinhala",
+"oo-sinhala",
+"p-sinhala",
+"pa-sinhala",
+"ph-sinhala",
+"pha-sinhala",
+"r-sinhala",
+"r_aeMatra-sinhala",
+"rVocalic-sinhala",
+"r_aeeMatra-sinhala",
+"ra-sinhala",
+"ri-sinhala",
+"rii-sinhala",
+"rrVocalic-sinhala",
+"s-sinhala",
+"sa-sinhala",
+"sh-sinhala",
+"sha-sinhala",
+"ss-sinhala",
+"ssa-sinhala",
+"t-sinhala",
+"ta-sinhala",
+"th-sinhala",
+"tha-sinhala",
+"tt-sinhala",
+"tta-sinhala",
+"tth-sinhala",
+"ttha-sinhala",
+"tti-sinhala",
+"ttii-sinhala",
+"u-sinhala",
+"uu-sinhala",
+"v-sinhala",
+"va-sinhala",
+"vi-sinhala",
+"vii-sinhala",
+"y-sinhala",
+"ya-sinhala",
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+"zerolith-sinhala",
+"onelith-sinhala",
+"twolith-sinhala",
+"threelith-sinhala",
+"fourlith-sinhala",
+"fivelith-sinhala",
+"sixlith-sinhala",
+"sevenlith-sinhala",
+"eightlith-sinhala",
+"ninelith-sinhala",
+period,
+comma,
+colon,
+semicolon,
+exclam,
+question,
+periodcentered,
+asterisk,
+numbersign,
+slash,
+backslash,
+parenleft,
+parenright,
+bracketleft,
+bracketright,
+hyphen,
+underscore,
+guillemetleft,
+guillemetright,
+quotedbl,
+quotesingle,
+"kunddaliya-sinhala",
+space,
+nbspace,
+zerowidthjoiner,
+zerowidthnonjoiner,
+CR,
+.notdef,
+.null,
+dollar,
+euro,
+bulletoperator,
+divisionslash,
+plus,
+minus,
+multiply,
+divide,
+equal,
+notequal,
+greater,
+less,
+greaterequal,
+lessequal,
+plusminus,
+approxequal,
+asciitilde,
+asciicircum,
+percent,
+bulletoperator.osf,
+plus.osf,
+minus.osf,
+multiply.osf,
+divide.osf,
+equal.osf,
+notequal.osf,
+greater.osf,
+less.osf,
+greaterequal.osf,
+lessequal.osf,
+plusminus.osf,
+approxequal.osf,
+asciitilde.osf,
+logicalnot.osf,
+bulletoperator.tf,
+divisionslash.tf,
+plus.tf,
+minus.tf,
+multiply.tf,
+divide.tf,
+equal.tf,
+notequal.tf,
+greater.tf,
+less.tf,
+greaterequal.tf,
+lessequal.tf,
+plusminus.tf,
+approxequal.tf,
+dottedCircle,
+at,
+ampersand,
+paragraph,
+section,
+copyright,
+registered,
+trademark,
+brokenbar,
+grave,
+"aaMatra-sinhala",
+"aaeMatra-sinhala",
+"aeMatra-sinhala",
+"aiMatra-sinhala",
+"anusvaraya-sinhala",
+"auMatra-sinhala",
+"eMatra-sinhala",
+"eeMatra-sinhala",
+"iMatra-sinhala",
+"iiMatra-sinhala",
+"lVocalicMatra-sinhala",
+"llVocalicMatra-sinhala",
+"oMatra-sinhala",
+"ooMatra-sinhala",
+"rVocalicMatra-sinhala",
+"reph-sinhala",
+"rrVocalicMatra-sinhala",
+"uMatra-sinhala",
+"uuMatra-sinhala",
+"virama-sinhala",
+"visargaya-sinhala",
+"ga.half-sinhala",
+"ka.half-sinhala",
+sinNa.half,
+"ta.half-sinhala",
+"ya.pos-sinhala",
+auMatraAu.sechalf,
+"eeMatra.sechalf-sinhala",
+"iMatra.alt-sinhala",
+"iMatra.alt1-sinhala",
+"iMatra.alt2-sinhala",
+"IiMatra.alt-sinhala",
+"IiMatra.alt1-sinhala",
+"IiMatra.alt2-sinhala",
+sinMatraO.sechalf,
+"ooMatra.sechalf-sinhala",
+"uMatra.alt-sinhala",
+"uuMatra.alt-sinhala",
+"virama.alt-sinhala",
+"virama.touch-sinhala",
+_i.part,
+_ii.part,
+mooniak,
+"dhI-sinhala",
+"ddIi-sinhala",
+"dhIi-sinhala",
+jny,
+sinJnyUu,
+"nnddI-sinhala",
+"nnddIi-sinhala",
+sinRakar,
+"bhra-sinhala",
+"dddh-sinhala",
+"ndaa.ss01-sinhala",
+"nndd-sinhala",
+"nyaa.ss01-sinhala",
+"tttth-sinhala",
+"virama-hala"
+);
+}
+);
+date = "2018-12-10 09:54:32 +0000";
+familyName = Thuna;
+featurePrefixes = (
+{
+code = "#Mark attachment classes (defined in GDEF, used in lookupflags)
+";
+name = "<anonymous>";
+},
+{
+code = "table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+";
+name = "<anonymous>";
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = compatibleFullName;
+value = "Sinhala Font Bolierplate";
+},
+{
+name = hheaAscender;
+value = 746;
+},
+{
+name = hheaDescender;
+value = -254;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = typoAscender;
+value = 746;
+},
+{
+name = typoDescender;
+value = -254;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+33,
+73
+);
+},
+{
+name = underlinePosition;
+value = 0;
+},
+{
+name = underlineThickness;
+value = 0;
+},
+{
+name = versionString;
+value = "Version 2.920; DEV";
+},
+{
+name = vendorID;
+value = PfEd;
+},
+{
+name = license;
+value = "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.";
+},
+{
+name = licenseURL;
+value = "http://www.gnu.org/licenses/";
+},
+{
+name = postscriptFullName;
+value = Thuna;
+},
+{
+name = postscriptFontName;
+value = Thuna;
+},
+{
+name = preferredFamilyName;
+value = "Sinhala Font Bolierplate";
+},
+{
+name = preferredSubfamilyName;
+value = Regular;
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+0,
+0
+);
+},
+{
+name = postscriptWeightName;
+value = Regular;
+},
+{
+name = styleMapFamilyName;
+value = "Sinhala Font Bolierplate Regular";
+},
+{
+name = styleMapStyleName;
+value = regular;
+},
+{
+name = codePageRanges;
+value = (
+1252
+);
+},
+{
+name = winAscent;
+value = 775;
+},
+{
+name = winDescent;
+value = 219;
+},
+{
+name = weightClass;
+value = 400;
+},
+{
+name = widthClass;
+value = 5;
+}
+);
+id = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+metricValues = (
+{
+over = 0;
+pos = 746;
+},
+{
+over = 0;
+pos = 571;
+},
+{
+over = 0;
+pos = 423;
+},
+{
+over = 0;
+},
+{
+over = 0;
+pos = -254;
+}
+);
+name = Regular;
+userData = {
+com.schriftgestaltung.Glyphs.ufoNote = "";
+org.unifiedfontobject.normalizer.modTimes = "version: 0.3.3.dev0
+1533142480.0 fontinfo.plist
+1513068804.0 groups.plist
+1533142480.0 layercontents.plist
+1533142480.0 metainfo.plist";
+};
+}
+);
+instances = (
+{
+axesValues = (
+);
+name = Regular;
+}
+);
+kerningLTR = {
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+value = "Copyright (c) 2017 ";
+},
+{
+key = designers;
+value = "Multiple designers";
+},
+{
+key = designerURL;
+value = mooniak.com;
+},
+{
+key = manufacturers;
+value = Mooniak;
+}
+);
+stems = (
+);
+unitsPerEm = 1000;
+versionMajor = 0;
+versionMinor = 1;
+}

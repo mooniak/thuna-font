@@ -1,0 +1,20 @@
+{
+glyphname = "s-sinhala";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "sa-sinhala";
+},
+{
+pos = (590,-3);
+ref = "virama-sinhala";
+}
+);
+vertWidth = 0;
+width = 578;
+}
+);
+note = "";
+}

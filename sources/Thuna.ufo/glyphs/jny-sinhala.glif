@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jny-sinhala" format="1">
-  <advance width="938"/>
-  <outline>
-    <component base="jnya-sinhala"/>
-    <component base="virama-sinhala" xOffset="937" yOffset="-6"/>
-  </outline>
-</glyph>

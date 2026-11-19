@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="h-sinhala" format="1">
-  <advance width="549"/>
-  <outline>
-    <component base="ha-sinhala"/>
-    <component base="virama-sinhala" xOffset="545" yOffset="-3"/>
-  </outline>
-</glyph>

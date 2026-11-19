@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ndj-sinhala" format="1">
-  <advance width="600"/>
-  <outline>
-    <component base="virama-sinhala"/>
-  </outline>
-</glyph>

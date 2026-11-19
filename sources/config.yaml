@@ -1,0 +1,9 @@
+sources:
+  - Thuna.glyphspackage
+familyName: "Thuna"
+outputDir: "../fonts"
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: true
+buildWebfont: true

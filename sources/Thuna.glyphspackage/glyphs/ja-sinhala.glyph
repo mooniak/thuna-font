@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = "ja-sinhala";
+lastChange = "2018-10-09 11:08:25 +0000";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(502,605,l),
+(420,488,l),
+(452,466,l),
+(550,605,l)
+);
+},
+{
+ref = "pa-sinhala";
+}
+);
+vertWidth = 0;
+width = 551;
+}
+);
+note = "";
+unicode = 3490;
+}

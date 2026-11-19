@@ -1,0 +1,20 @@
+{
+glyphname = "jh-sinhala";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "jha-sinhala";
+},
+{
+pos = (699,76);
+ref = "virama-sinhala";
+}
+);
+vertWidth = 0;
+width = 1017;
+}
+);
+note = "";
+}
