@@ -608,12 +608,16 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = hheaAscender;
-value = 746;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -254;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -621,11 +625,11 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 746;
+value = 900;
 },
 {
 name = typoDescender;
-value = -254;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -640,11 +644,11 @@ value = (
 },
 {
 name = winAscent;
-value = 775;
+value = 900;
 },
 {
 name = winDescent;
-value = 219;
+value = 300;
 },
 {
 name = weightClass;
