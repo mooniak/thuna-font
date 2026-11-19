@@ -1,6 +1,16 @@
 {
 .appVersion = "895";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+}
+);
 customParameters = (
 {
 name = fsType;
@@ -261,7 +271,7 @@ guillemetleft,
 guillemetright,
 quotedbl,
 quotesingle,
-"kunddaliya",
+kunddaliya,
 space,
 nbspace,
 zerowidthjoiner,
@@ -378,14 +388,224 @@ jny,
 "nnddI-sinh",
 "nnddIi-sinh",
 "rasign-sinh",
-"nndd-sinh",
+"nndd-sinh"
 );
 }
 );
 date = "2018-12-10 09:54:32 +0000";
 familyName = Thuna;
+featurePrefixes = (
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+languagesystem sinh dflt;";
+name = Languagesystems;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+# classes sinhala: ";
+name = "lankafea-manifest";
+}
+);
+features = (
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+# stacked consonant conjuncts
+lookup ConjunctLigatures {
+    sub tta-sinh virama-sinh zerowidthjoiner ttha-sinh by ttTtha-sinh;  # tt + tth
+    sub da-sinh virama-sinh zerowidthjoiner dha-sinh by dDha-sinh;  # d + dh
+    sub da-sinh virama-sinh zerowidthjoiner va-sinh by dVa-sinh;  # d + v
+    sub da-sinh virama-sinh zerowidthjoiner ra-sinh by dRa-sinh;  # d + r
+    sub nda-sinh virama-sinh zerowidthjoiner ra-sinh by ndRa-sinh;  # nd + r
+} ConjunctLigatures;";
+tag = akhn;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+lookup Reph {
+    sub ra-sinh virama-sinh zerowidthjoiner by repha-sinh;  # ra + virama + zwj -> repaya
+} Reph;";
+tag = rphf;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+# rakaransaya / yansaya / touching sign
+lookup BelowBaseForms {
+    sub virama-sinh zerowidthjoiner ra-sinh by rasign-sinh;  # virama + zwj + ra -> rakaransaya
+} BelowBaseForms;
+# precomposed rakaransaya ligatures
+lookup RakarLigatures {
+    sub da-sinh rasign-sinh by dRa-sinh;  # da + rasign
+    sub nda-sinh rasign-sinh by ndRa-sinh;  # nda + rasign
+} RakarLigatures;";
+tag = vatu;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+# al-lakuna / virama forms
+lookup PureConsonants {
+    sub ka-sinh virama-sinh by k-sinh;  # ka + virama
+    sub kha-sinh virama-sinh by kh-sinh;  # kha + virama
+    sub ga-sinh virama-sinh by g-sinh;  # ga + virama
+    sub gha-sinh virama-sinh by gh-sinh;  # gha + virama
+    sub nga-sinh virama-sinh by ng-sinh;  # nga + virama
+    sub nnga-sinh virama-sinh by nng-sinh;  # nnga + virama
+    sub ca-sinh virama-sinh by c-sinh;  # ca + virama
+    sub cha-sinh virama-sinh by ch-sinh;  # cha + virama
+    sub ja-sinh virama-sinh by j-sinh;  # ja + virama
+    sub jha-sinh virama-sinh by jh-sinh;  # jha + virama
+    sub nya-sinh virama-sinh by ny-sinh;  # nya + virama
+    sub tta-sinh virama-sinh by tt-sinh;  # tta + virama
+    sub ttha-sinh virama-sinh by tth-sinh;  # ttha + virama
+    sub dda-sinh virama-sinh by dd-sinh;  # dda + virama
+    sub ddha-sinh virama-sinh by ddh-sinh;  # ddha + virama
+    sub nna-sinh virama-sinh by nn-sinh;  # nna + virama
+    sub nndda-sinh virama-sinh by nndd-sinh;  # nndda + virama
+    sub ta-sinh virama-sinh by t-sinh;  # ta + virama
+    sub tha-sinh virama-sinh by th-sinh;  # tha + virama
+    sub da-sinh virama-sinh by d-sinh;  # da + virama
+    sub dha-sinh virama-sinh by dh-sinh;  # dha + virama
+    sub na-sinh virama-sinh by n-sinh;  # na + virama
+    sub nda-sinh virama-sinh by nd-sinh;  # nda + virama
+    sub pa-sinh virama-sinh by p-sinh;  # pa + virama
+    sub pha-sinh virama-sinh by ph-sinh;  # pha + virama
+    sub ba-sinh virama-sinh by b-sinh;  # ba + virama
+    sub bha-sinh virama-sinh by bh-sinh;  # bha + virama
+    sub ma-sinh virama-sinh by m-sinh;  # ma + virama
+    sub mba-sinh virama-sinh by mb-sinh;  # mba + virama
+    sub ya-sinh virama-sinh by y-sinh;  # ya + virama
+    sub ra-sinh virama-sinh by r-sinh;  # ra + virama
+    sub la-sinh virama-sinh by l-sinh;  # la + virama
+    sub va-sinh virama-sinh by v-sinh;  # va + virama
+    sub sha-sinh virama-sinh by sh-sinh;  # sha + virama
+    sub ssa-sinh virama-sinh by ss-sinh;  # ssa + virama
+    sub sa-sinh virama-sinh by s-sinh;  # sa + virama
+    sub ha-sinh virama-sinh by h-sinh;  # ha + virama
+    sub lla-sinh virama-sinh by ll-sinh;  # lla + virama
+    sub fa-sinh virama-sinh by f-sinh;  # fa + virama
+    sub jnya-sinh virama-sinh by jny-sinh;  # jnya + virama
+    sub nyja-sinh virama-sinh by nyj-sinh;  # nyja + virama
+} PureConsonants;
+lookup VowelLig_abvs {
+    lookupflag UseMarkFilteringSet [virama-sinh isign-sinh iisign-sinh usign-sinh uusign-sinh];
+    sub kha-sinh isign-sinh by khI-sinh;  # kha + isign
+    sub kha-sinh iisign-sinh by khIi-sinh;  # kha + iisign
+    sub nga-sinh isign-sinh by ngI-sinh;  # nga + isign
+    sub nga-sinh iisign-sinh by ngIi-sinh;  # nga + iisign
+    sub ca-sinh isign-sinh by cI-sinh;  # ca + isign
+    sub ca-sinh iisign-sinh by cIi-sinh;  # ca + iisign
+    sub jha-sinh isign-sinh by jhI-sinh;  # jha + isign
+    sub jha-sinh iisign-sinh by jhIi-sinh;  # jha + iisign
+    sub tta-sinh isign-sinh by ttI-sinh;  # tta + isign
+    sub tta-sinh iisign-sinh by ttIi-sinh;  # tta + iisign
+    sub dda-sinh isign-sinh by ddI-sinh;  # dda + isign
+    sub dda-sinh iisign-sinh by ddIi-sinh;  # dda + iisign
+    sub nndda-sinh isign-sinh by nnddI-sinh;  # nndda + isign
+    sub nndda-sinh iisign-sinh by nnddIi-sinh;  # nndda + iisign
+    sub dha-sinh isign-sinh by dhI-sinh;  # dha + isign
+    sub dha-sinh iisign-sinh by dhIi-sinh;  # dha + iisign
+    sub ba-sinh isign-sinh by bI-sinh;  # ba + isign
+    sub ba-sinh iisign-sinh by bIi-sinh;  # ba + iisign
+    sub ma-sinh isign-sinh by mI-sinh;  # ma + isign
+    sub ma-sinh iisign-sinh by mIi-sinh;  # ma + iisign
+    sub mba-sinh isign-sinh by mbI-sinh;  # mba + isign
+    sub mba-sinh iisign-sinh by mbIi-sinh;  # mba + iisign
+    sub ra-sinh isign-sinh by rI-sinh;  # ra + isign
+    sub ra-sinh iisign-sinh by rIi-sinh;  # ra + iisign
+    sub va-sinh isign-sinh by vI-sinh;  # va + isign
+    sub va-sinh iisign-sinh by vIi-sinh;  # va + iisign
+    sub kh-sinh isign-sinh by khI-sinh;  # kh + isign
+    sub kh-sinh iisign-sinh by khIi-sinh;  # kh + iisign
+    sub ng-sinh isign-sinh by ngI-sinh;  # ng + isign
+    sub ng-sinh iisign-sinh by ngIi-sinh;  # ng + iisign
+    sub c-sinh isign-sinh by cI-sinh;  # c + isign
+    sub c-sinh iisign-sinh by cIi-sinh;  # c + iisign
+    sub jh-sinh isign-sinh by jhI-sinh;  # jh + isign
+    sub jh-sinh iisign-sinh by jhIi-sinh;  # jh + iisign
+    sub tt-sinh isign-sinh by ttI-sinh;  # tt + isign
+    sub tt-sinh iisign-sinh by ttIi-sinh;  # tt + iisign
+    sub dd-sinh isign-sinh by ddI-sinh;  # dd + isign
+    sub dd-sinh iisign-sinh by ddIi-sinh;  # dd + iisign
+    sub nndd-sinh isign-sinh by nnddI-sinh;  # nndd + isign
+    sub nndd-sinh iisign-sinh by nnddIi-sinh;  # nndd + iisign
+    sub dh-sinh isign-sinh by dhI-sinh;  # dh + isign
+    sub dh-sinh iisign-sinh by dhIi-sinh;  # dh + iisign
+    sub b-sinh isign-sinh by bI-sinh;  # b + isign
+    sub b-sinh iisign-sinh by bIi-sinh;  # b + iisign
+    sub m-sinh isign-sinh by mI-sinh;  # m + isign
+    sub m-sinh iisign-sinh by mIi-sinh;  # m + iisign
+    sub mb-sinh isign-sinh by mbI-sinh;  # mb + isign
+    sub mb-sinh iisign-sinh by mbIi-sinh;  # mb + iisign
+    sub r-sinh isign-sinh by rI-sinh;  # r + isign
+    sub r-sinh iisign-sinh by rIi-sinh;  # r + iisign
+    sub v-sinh isign-sinh by vI-sinh;  # v + isign
+    sub v-sinh iisign-sinh by vIi-sinh;  # v + iisign
+    sub dVa-sinh isign-sinh by dVI-sinh;  # dVa + isign
+    sub dVa-sinh iisign-sinh by dVIi-sinh;  # dVa + iisign
+} VowelLig_abvs;";
+tag = abvs;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+lookup VowelLig_blws {
+    sub nya-sinh usign-sinh by nyU-sinh;  # nya + usign
+    sub nya-sinh uusign-sinh by nyUu-sinh;  # nya + uusign
+    sub da-sinh usign-sinh by dU-sinh;  # da + usign
+    sub da-sinh uusign-sinh by dUu-sinh;  # da + uusign
+    sub nda-sinh usign-sinh by ndU-sinh;  # nda + usign
+    sub nda-sinh uusign-sinh by ndUu-sinh;  # nda + uusign
+    sub la-sinh usign-sinh by lU-sinh;  # la + usign
+    sub la-sinh uusign-sinh by lUu-sinh;  # la + uusign
+    sub lla-sinh usign-sinh by llU-sinh;  # lla + usign
+    sub jnya-sinh uusign-sinh by jnyUu-sinh;  # jnya + uusign
+    sub jny-sinh uusign-sinh by jnyUu-sinh;  # jny + uusign
+} VowelLig_blws;";
+tag = blws;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+lookup VowelLig_psts {
+    sub ra-sinh aesign-sinh by rAe-sinh;  # ra + aesign
+    sub ra-sinh aaesign-sinh by rAae-sinh;  # ra + aaesign
+    sub r-sinh aesign-sinh by rAe-sinh;  # r + aesign
+    sub r-sinh aaesign-sinh by rAae-sinh;  # r + aaesign
+} VowelLig_psts;";
+tag = psts;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+sub iisign-sinh from [iisign-sinh iisign-sinh.alt1 iisign-sinh.alt2];  # alternates of iisign
+sub isign-sinh from [isign-sinh isign-sinh.alt1 isign-sinh.alt2];  # alternates of isign
+sub usign-sinh from [usign-sinh usign-sinh.alt];  # alternates of usign
+sub uusign-sinh from [uusign-sinh uusign-sinh.alt];  # alternates of uusign
+sub virama-sinh from [virama-sinh virama-sinh.alt];  # alternates of virama";
+tag = aalt;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+lookup StylisticSet01 {
+    sub iisign-sinh by iisign-sinh.alt1;  # iisign -> iisign-sinh.alt1
+    sub isign-sinh by isign-sinh.alt1;  # isign -> isign-sinh.alt1
+    sub usign-sinh by usign-sinh.alt;  # usign -> usign-sinh.alt
+    sub uusign-sinh by uusign-sinh.alt;  # uusign -> uusign-sinh.alt
+    sub virama-sinh by virama-sinh.alt;  # virama -> virama-sinh.alt
+} StylisticSet01;";
+tag = ss01;
+},
+{
+code = "# lankafea:generated v1 — do not edit; regenerate with lankafea
+lookup StylisticSet02 {
+    sub iisign-sinh by iisign-sinh.alt2;  # iisign -> iisign-sinh.alt2
+    sub isign-sinh by isign-sinh.alt2;  # isign -> isign-sinh.alt2
+} StylisticSet02;";
+tag = ss02;
+}
+);
 fontMaster = (
 {
+axesValues = (
+100,
+100
+);
 customParameters = (
 {
 name = hheaAscender;
