@@ -2,24 +2,24 @@
 glyphname = seven;
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 shapes = (
 {
 closed = 1;
 nodes = (
-(327,556,l),
-(327,580,l),
-(5,580,l),
-(5,542,l),
-(295,542,l),
-(285,556,l),
-(68,-27,l),
-(111,-27,l)
+(362,600,l),
+(362,0,l),
+(335,0,l),
+(335,573,l),
+(48,573,l),
+(48,600,l)
 );
 }
 );
 vertWidth = 0;
-width = 385;
+width = 483;
 }
 );
 note = "";

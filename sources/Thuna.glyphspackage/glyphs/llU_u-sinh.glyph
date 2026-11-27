@@ -1,0 +1,18 @@
+{
+glyphname = "llUu-sinh";
+layers = (
+{
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
+shapes = (
+{
+ref = "llU-sinh";
+}
+);
+vertWidth = 0;
+width = 674;
+}
+);
+note = "";
+}

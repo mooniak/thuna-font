@@ -1,11 +1,12 @@
 {
 glyphname = .null;
-lastChange = "2018-12-10 09:31:21 +0000";
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 vertWidth = 0;
-width = 244;
+width = 0;
 }
 );
 note = "";

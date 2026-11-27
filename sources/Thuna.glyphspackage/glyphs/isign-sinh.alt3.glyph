@@ -1,0 +1,28 @@
+{
+glyphname = "isign-sinh.alt3";
+layers = (
+{
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
+shapes = (
+{
+closed = 1;
+nodes = (
+(714,750,l),
+(684,626,l),
+(658,632,l),
+(680,723,l),
+(320,723,l),
+(342,632,l),
+(316,626,l),
+(286,750,l)
+);
+}
+);
+vertWidth = 0;
+width = 0;
+}
+);
+note = "";
+}

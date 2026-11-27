@@ -1,22 +1,23 @@
 {
 glyphname = "virama-sinh";
-lastChange = "2018-02-04 19:27:33 +0000";
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-107,665,l),
-(-152,665,l),
-(-152,458,l),
-(-107,458,l)
+(487,655,l),
+(513,655,l),
+(513,413,l),
+(487,413,l)
 );
 }
 );
 vertWidth = 0;
-width = 0;
+width = 1;
 }
 );
 note = "";

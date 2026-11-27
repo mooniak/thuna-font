@@ -1,0 +1,33 @@
+{
+category = Mark;
+glyphname = "aasign_virama-sinh";
+layers = (
+{
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,750,l),
+(228,85,l),
+(56,128,l),
+(62,154,l),
+(202,119,l),
+(202,419,l),
+(202,480,l),
+(62,446,l),
+(56,472,l),
+(202,508,l),
+(202,750,l)
+);
+}
+);
+vertWidth = 0;
+width = 321;
+}
+);
+note = "";
+subCategory = Spacing;
+}

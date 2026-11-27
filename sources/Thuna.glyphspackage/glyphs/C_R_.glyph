@@ -2,7 +2,9 @@
 glyphname = CR;
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 vertWidth = 0;
 width = 600;
 }

@@ -2,45 +2,21 @@
 glyphname = colon;
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 shapes = (
 {
-closed = 1;
-nodes = (
-(127,434,o),
-(127,456,cs),
-(127,478,o),
-(112,493,o),
-(91,493,cs),
-(69,493,o),
-(54,478,o),
-(54,456,cs),
-(54,434,o),
-(69,420,o),
-(91,420,cs),
-(112,420,o)
-);
+pos = (-3,309);
+ref = period;
 },
 {
-closed = 1;
-nodes = (
-(127,9,o),
-(127,31,cs),
-(127,53,o),
-(112,68,o),
-(91,68,cs),
-(69,68,o),
-(54,53,o),
-(54,31,cs),
-(54,9,o),
-(69,-5,o),
-(91,-5,cs),
-(112,-5,o)
-);
+pos = (-3,55);
+ref = period;
 }
 );
 vertWidth = 0;
-width = 183;
+width = 230;
 }
 );
 note = "";

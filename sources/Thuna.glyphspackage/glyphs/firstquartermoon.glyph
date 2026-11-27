@@ -1,0 +1,14 @@
+{
+glyphname = firstquartermoon;
+layers = (
+{
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
+vertWidth = 0;
+width = 462;
+}
+);
+note = "";
+unicode = 127771;
+}

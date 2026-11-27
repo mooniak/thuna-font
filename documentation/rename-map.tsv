@@ -1,212 +1,493 @@
 old	new	status	note
-IiMatra.alt-sinhala	iisign-sinh.alt	rename	mapped by Unicode
-IiMatra.alt1-sinhala	iisign-sinh.alt1	rename	mapped by Unicode
-IiMatra.alt2-sinhala	iisign-sinh.alt2	rename	mapped by Unicode
-a-sinhala	a-sinh	rename	mapped by Unicode
-aa-sinhala	aa-sinh	rename	mapped by Unicode
-aaMatra-sinhala	aasign-sinh	rename	mapped by Unicode
-aaeMatra-sinhala	aaesign-sinh	rename	mapped by Unicode
-ae-sinhala	ae-sinh	rename	mapped by Unicode
-aeMatra-sinhala	aesign-sinh	rename	mapped by Unicode
-aee-sinhala	aae-sinh	rename	mapped by Unicode
-ai-sinhala	ai-sinh	rename	mapped by Unicode
-aiMatra-sinhala	aisign-sinh	rename	mapped by Unicode
-anusvaraya-sinhala	anusvaraya-sinh	rename	mapped by Unicode
-au-sinhala	au-sinh	rename	mapped by Unicode
-auMatra-sinhala	ausign-sinh	rename	mapped by Unicode
-auMatraAu.sechalf	ausign-sinh.sechalf	rename	mapped by Unicode
-b-sinhala	b-sinh	rename	mapped by Unicode
-ba-sinhala	ba-sinh	rename	mapped by Unicode
-bh-sinhala	bh-sinh	rename	mapped by Unicode
-bha-sinhala	bha-sinh	rename	mapped by Unicode
-bi-sinhala	bI-sinh	rename	mapped by Unicode
-bii-sinhala	bIi-sinh	rename	mapped by Unicode
-c-sinhala	c-sinh	rename	mapped by Unicode
-ca-sinhala	ca-sinh	rename	mapped by Unicode
-ch-sinhala	ch-sinh	rename	mapped by Unicode
-cha-sinhala	cha-sinh	rename	mapped by Unicode
-ci-sinhala	cI-sinh	rename	mapped by Unicode
-cii-sinhala	cIi-sinh	rename	mapped by Unicode
-d-sinhala	d-sinh	rename	mapped by Unicode
-d_dha-sinhala	dDha-sinh	rename	mapped by Unicode
-d_va-sinhala	dVa-sinh	rename	mapped by Unicode
-d_vi-sinhala	dVI-sinh	rename	mapped by Unicode
-d_vii-sinhala	dVIi-sinh	rename	mapped by Unicode
-da-sinhala	da-sinh	rename	mapped by Unicode
-da_ra-sinhala	dRa-sinh	rename	mapped by Unicode
-dd-sinhala	dd-sinh	rename	mapped by Unicode
-ddIi-sinhala	ddIi-sinh	rename	mapped by Unicode
-dda-sinhala	dda-sinh	rename	mapped by Unicode
-ddh-sinhala	ddh-sinh	rename	mapped by Unicode
-ddha-sinhala	ddha-sinh	rename	mapped by Unicode
-ddi-sinhala	ddI-sinh	rename	mapped by Unicode
-dh-sinhala	dh-sinh	rename	mapped by Unicode
-dhI-sinhala	dhI-sinh	rename	mapped by Unicode
-dhIi-sinhala	dhIi-sinh	rename	mapped by Unicode
-dha-sinhala	dha-sinh	rename	mapped by Unicode
-du-sinhala	dU-sinh	rename	mapped by Unicode
-duu-sinhala	dUu-sinh	rename	mapped by Unicode
-e-sinhala	e-sinh	rename	mapped by Unicode
-eMatra-sinhala	esign-sinh	rename	mapped by Unicode
-ee-sinhala	ee-sinh	rename	mapped by Unicode
-eeMatra-sinhala	eesign-sinh	rename	mapped by Unicode
-eeMatra.sechalf-sinhala	eesign-sinh.sechalf	rename	mapped by Unicode
-eightlith-sinhala	litheight-sinh	rename	mapped by Unicode
-f-sinhala	f-sinh	rename	mapped by Unicode
-fa-sinhala	fa-sinh	rename	mapped by Unicode
-fivelith-sinhala	lithfive-sinh	rename	mapped by Unicode
-fourlith-sinhala	lithfour-sinh	rename	mapped by Unicode
-g-sinhala	g-sinh	rename	mapped by Unicode
-ga-sinhala	ga-sinh	rename	mapped by Unicode
-ga.half-sinhala	ga-sinh.half	rename	mapped by Unicode
-gh-sinhala	gh-sinh	rename	mapped by Unicode
-gha-sinhala	gha-sinh	rename	mapped by Unicode
-h-sinhala	h-sinh	rename	mapped by Unicode
-ha-sinhala	ha-sinh	rename	mapped by Unicode
-i-sinhala	i-sinh	rename	mapped by Unicode
-iMatra-sinhala	isign-sinh	rename	mapped by Unicode
-iMatra.alt-sinhala	isign-sinh.alt	rename	mapped by Unicode
-iMatra.alt1-sinhala	isign-sinh.alt1	rename	mapped by Unicode
-iMatra.alt2-sinhala	isign-sinh.alt2	rename	mapped by Unicode
-ii-sinhala	ii-sinh	rename	mapped by Unicode
-iiMatra-sinhala	iisign-sinh	rename	mapped by Unicode
-j-sinhala	j-sinh	rename	mapped by Unicode
-ja-sinhala	ja-sinh	rename	mapped by Unicode
-jh-sinhala	jh-sinh	rename	mapped by Unicode
-jha-sinhala	jha-sinh	rename	mapped by Unicode
-jhi-sinhala	jhI-sinh	rename	mapped by Unicode
-jhii-sinhala	jhIi-sinh	rename	mapped by Unicode
-jny-sinhala	jny-sinh	rename	mapped by Unicode
-jnya-sinhala	jnya-sinh	rename	mapped by Unicode
-k-sinhala	k-sinh	rename	mapped by Unicode
-ka-sinhala	ka-sinh	rename	mapped by Unicode
-ka.half-sinhala	ka-sinh.half	rename	mapped by Unicode
-kh-sinhala	kh-sinh	rename	mapped by Unicode
-kha-sinhala	kha-sinh	rename	mapped by Unicode
-khi-sinhala	khI-sinh	rename	mapped by Unicode
-khii-sinhala	khIi-sinh	rename	mapped by Unicode
-kunddaliya-sinhala	kunddaliya	rename	mapped by Unicode
-l-sinhala	l-sinh	rename	mapped by Unicode
-lVocalic-sinhala	vocalicl-sinh	rename	mapped by Unicode
-lVocalicMatra-sinhala	vocaliclsign-sinh	rename	mapped by Unicode
-la-sinhala	la-sinh	rename	mapped by Unicode
-ll-sinhala	ll-sinh	rename	mapped by Unicode
-llVocalic-sinhala	vocalicll-sinh	rename	mapped by Unicode
-llVocalicMatra-sinhala	vocalicllsign-sinh	rename	mapped by Unicode
-lla-sinhala	lla-sinh	rename	mapped by Unicode
-llu-sinhala	llU-sinh	rename	mapped by Unicode
-lu-sinhala	lU-sinh	rename	mapped by Unicode
-luu-sinhala	lUu-sinh	rename	mapped by Unicode
-m-sinhala	m-sinh	rename	mapped by Unicode
-ma-sinhala	ma-sinh	rename	mapped by Unicode
-mb-sinhala	mb-sinh	rename	mapped by Unicode
-mba-sinhala	mba-sinh	rename	mapped by Unicode
-mbi-sinhala	mbI-sinh	rename	mapped by Unicode
-mbii-sinhala	mbIi-sinh	rename	mapped by Unicode
-mi-sinhala	mI-sinh	rename	mapped by Unicode
-mii-sinhala	mIi-sinh	rename	mapped by Unicode
-n-sinhala	n-sinh	rename	mapped by Unicode
-na-sinhala	na-sinh	rename	mapped by Unicode
-nd-sinhala	nd-sinh	rename	mapped by Unicode
-nd_ra-sinhala	ndRa-sinh	rename	mapped by Unicode
-nda-sinhala	nda-sinh	rename	mapped by Unicode
-ndj-sinhala	nyj-sinh	rename	mapped by Unicode
-ndu-sinhala	ndU-sinh	rename	mapped by Unicode
-nduu-sinhala	ndUu-sinh	rename	mapped by Unicode
-ng-sinhala	ng-sinh	rename	mapped by Unicode
-nga-sinhala	nga-sinh	rename	mapped by Unicode
-ngi-sinhala	ngI-sinh	rename	mapped by Unicode
-ngii-sinhala	ngIi-sinh	rename	mapped by Unicode
-ninelith-sinhala	lithnine-sinh	rename	mapped by Unicode
-nn-sinhala	nn-sinh	rename	mapped by Unicode
-nna-sinhala	nna-sinh	rename	mapped by Unicode
-nndd-sinhala	nndd-sinh	rename	mapped by Unicode
-nnddI-sinhala	nnddI-sinh	rename	mapped by Unicode
-nnddIi-sinhala	nnddIi-sinh	rename	mapped by Unicode
-nndda-sinhala	nndda-sinh	rename	mapped by Unicode
-nng-sinhala	nng-sinh	rename	mapped by Unicode
-nnga-sinhala	nnga-sinh	rename	mapped by Unicode
-ny-sinhala	ny-sinh	rename	mapped by Unicode
-nya-sinhala	nya-sinh	rename	mapped by Unicode
-nya_uMatra-sinhala	nyU-sinh	rename	mapped by Unicode
-nya_uuMatra-sinhala	nyUu-sinh	rename	mapped by Unicode
-nyja-sinhala	nyja-sinh	rename	mapped by Unicode
-o-sinhala	o-sinh	rename	mapped by Unicode
-oMatra-sinhala	osign-sinh	rename	mapped by Unicode
-onelith-sinhala	lithone-sinh	rename	mapped by Unicode
-oo-sinhala	oo-sinh	rename	mapped by Unicode
-ooMatra-sinhala	oosign-sinh	rename	mapped by Unicode
-ooMatra.sechalf-sinhala	oosign-sinh.sechalf	rename	mapped by Unicode
-p-sinhala	p-sinh	rename	mapped by Unicode
-pa-sinhala	pa-sinh	rename	mapped by Unicode
-ph-sinhala	ph-sinh	rename	mapped by Unicode
-pha-sinhala	pha-sinh	rename	mapped by Unicode
-r-sinhala	r-sinh	rename	mapped by Unicode
-rVocalic-sinhala	vocalicr-sinh	rename	mapped by Unicode
-rVocalicMatra-sinhala	vocalicrsign-sinh	rename	mapped by Unicode
-r_aeMatra-sinhala	rAe-sinh	rename	mapped by Unicode
-r_aeeMatra-sinhala	rAae-sinh	rename	mapped by Unicode
-ra-sinhala	ra-sinh	rename	mapped by Unicode
-reph-sinhala	repha-sinh	rename	mapped by Unicode
-ri-sinhala	rI-sinh	rename	mapped by Unicode
-rii-sinhala	rIi-sinh	rename	mapped by Unicode
-rrVocalic-sinhala	vocalicrr-sinh	rename	mapped by Unicode
-rrVocalicMatra-sinhala	vocalicrrsign-sinh	rename	mapped by Unicode
-s-sinhala	s-sinh	rename	mapped by Unicode
-sa-sinhala	sa-sinh	rename	mapped by Unicode
-sevenlith-sinhala	lithseven-sinh	rename	mapped by Unicode
-sh-sinhala	sh-sinh	rename	mapped by Unicode
-sh_rii-sinhala	shRIi-sinh	rename	mapped by Unicode
-sha-sinhala	sha-sinh	rename	mapped by Unicode
-sinJnyUu	jnyUu-sinh	rename	mapped by Unicode
-sinMatraO.sechalf	osign-sinh.sechalf	rename	mapped by Unicode
-sinNa.half	na-sinh.half	rename	mapped by Unicode
-sinRakar	rasign-sinh	rename	mapped by Unicode
-sixlith-sinhala	lithsix-sinh	rename	mapped by Unicode
-ss-sinhala	ss-sinh	rename	mapped by Unicode
-ssa-sinhala	ssa-sinh	rename	mapped by Unicode
-t-sinhala	t-sinh	rename	mapped by Unicode
-ta-sinhala	ta-sinh	rename	mapped by Unicode
-ta.half-sinhala	ta-sinh.half	rename	mapped by Unicode
-th-sinhala	th-sinh	rename	mapped by Unicode
-tha-sinhala	tha-sinh	rename	mapped by Unicode
-threelith-sinhala	liththree-sinh	rename	mapped by Unicode
-tt-sinhala	tt-sinh	rename	mapped by Unicode
-tt_ttha-sinhala	ttTtha-sinh	rename	mapped by Unicode
-tta-sinhala	tta-sinh	rename	mapped by Unicode
-tth-sinhala	tth-sinh	rename	mapped by Unicode
-ttha-sinhala	ttha-sinh	rename	mapped by Unicode
-tti-sinhala	ttI-sinh	rename	mapped by Unicode
-ttii-sinhala	ttIi-sinh	rename	mapped by Unicode
-twolith-sinhala	lithtwo-sinh	rename	mapped by Unicode
-u-sinhala	u-sinh	rename	mapped by Unicode
-uMatra-sinhala	usign-sinh	rename	mapped by Unicode
-uMatra.alt-sinhala	usign-sinh.alt	rename	mapped by Unicode
-uu-sinhala	uu-sinh	rename	mapped by Unicode
-uuMatra-sinhala	uusign-sinh	rename	mapped by Unicode
-uuMatra.alt-sinhala	uusign-sinh.alt	rename	mapped by Unicode
-v-sinhala	v-sinh	rename	mapped by Unicode
-va-sinhala	va-sinh	rename	mapped by Unicode
-vi-sinhala	vI-sinh	rename	mapped by Unicode
-vii-sinhala	vIi-sinh	rename	mapped by Unicode
-virama-sinhala	virama-sinh	rename	mapped by Unicode
-virama.alt-sinhala	virama-sinh.alt	rename	mapped by Unicode
-virama.touch-sinhala	virama-sinh.touch	rename	mapped by Unicode
-visargaya-sinhala	visargaya-sinh	rename	mapped by Unicode
-y-sinhala	y-sinh	rename	mapped by Unicode
-ya-sinhala	ya-sinh	rename	mapped by Unicode
-ya.pos-sinhala	ya-sinh.pos	rename	mapped by Unicode
-zerolith-sinhala	lithzero-sinh	rename	mapped by Unicode
-bhra-sinhala		DELETED	empty, no rule produced it
-dddh-sinhala		DELETED	empty, no rule produced it
-dv-sinhala		DELETED	empty, no rule produced it
-k_ssa-sinhala		DELETED	empty, no rule produced it
-k_va-sinhala		DELETED	empty, no rule produced it
-n_va-sinhala		DELETED	empty, no rule produced it
-ndaa.ss01-sinhala		DELETED	empty, no rule produced it
-ndh-sinhala		DELETED	empty, no rule produced it
-nth-sinhala		DELETED	empty, no rule produced it
-nyaa.ss01-sinhala		DELETED	empty, no rule produced it
-t_va-sinhala		DELETED	empty, no rule produced it
-tttth-sinhala		DELETED	empty, no rule produced it
-virama-hala		DELETED	empty, no rule produced it
+sinMatraAa.virama	oosign-sinh	COLLISION	-> oosign-sinh; left unchanged
+sinMatraOo	oosign-sinh	COLLISION	-> oosign-sinh; left unchanged
+sinDda.virama		UNRESOLVED	no Unicode could be derived (empty/unused glyph?)
+sinDrI		UNRESOLVED	no Unicode could be derived (empty/unused glyph?)
+sinDrIi		UNRESOLVED	no Unicode could be derived (empty/unused glyph?)
+sinDra		UNRESOLVED	no Unicode could be derived (empty/unused glyph?)
+sinNdda		UNRESOLVED	no Unicode could be derived (empty/unused glyph?)
+sinA	a-sinh	rename	cmap; kernel
+sinAa	aa-sinh	rename	cmap; kernel
+sinAae	aae-sinh	rename	cmap; kernel
+sinAe	ae-sinh	rename	cmap; kernel
+sinAi	ai-sinh	rename	cmap; kernel
+sinAnusvara	anusvaraya-sinh	rename	cmap; kernel
+sinAu	au-sinh	rename	cmap; kernel
+sinB.virama	b-sinh	rename	gsub; kernel
+sinBI	bI-sinh	rename	gsub; kernel
+sinBIi	bIi-sinh	rename	gsub; kernel
+sinBR.virama	bR-sinh	rename	gsub; derived
+sinBRI	bRI-sinh	rename	gsub; derived
+sinBRIi	bRIi-sinh	rename	gsub; derived
+sinBRa	bRa-sinh	rename	gsub; derived
+sinBU	bU-sinh	rename	gsub; derived
+sinBUu	bUu-sinh	rename	gsub; derived
+sinBa	ba-sinh	rename	cmap; kernel
+sinBh.virama	bh-sinh	rename	gsub; derived
+sinBhI	bhI-sinh	rename	gsub; derived
+sinBhIi	bhIi-sinh	rename	gsub; derived
+sinBhRI	bhRI-sinh	rename	gsub; derived
+sinBhRIi	bhRIi-sinh	rename	gsub; derived
+sinBhRa	bhRa-sinh	rename	gsub; derived
+sinBhRa.virama	bhR-sinh	rename	gsub; derived
+sinBhU	bhU-sinh	rename	gsub; kernel
+sinBhUu	bhUu-sinh	rename	gsub; kernel
+sinBha	bha-sinh	rename	cmap; kernel
+sinC.virama	c-sinh	rename	gsub; kernel
+sinCI	cI-sinh	rename	gsub; kernel
+sinCIi	cIi-sinh	rename	gsub; kernel
+sinCR.virama	cR-sinh	rename	gsub; derived
+sinCRI	cRI-sinh	rename	gsub; derived
+sinCRIi	cRIi-sinh	rename	gsub; derived
+sinCRa	cRa-sinh	rename	gsub; derived
+sinCU	cU-sinh	rename	gsub; derived
+sinCUu	cUu-sinh	rename	gsub; derived
+sinCa	ca-sinh	rename	cmap; kernel
+sinCh.virama	ch-sinh	rename	gsub; kernel
+sinChI	chI-sinh	rename	gsub; kernel
+sinChIi	chIi-sinh	rename	gsub; kernel
+sinChU	chU-sinh	rename	gsub; derived
+sinChUu	chUu-sinh	rename	gsub; derived
+sinCha	cha-sinh	rename	cmap; kernel
+sinD.virama	d-sinh	rename	gsub; derived
+sinDDdh.virama	dDh-sinh	rename	gsub; derived
+sinDDhI	dDhI-sinh	rename	gsub; derived
+sinDDhIi	dDhIi-sinh	rename	gsub; derived
+sinDDhU	dDhU-sinh	rename	gsub; derived
+sinDDhUu	dDhUu-sinh	rename	gsub; derived
+sinDDha	dDha-sinh	rename	gsub; derived
+sinDI	dI-sinh	rename	gsub; derived
+sinDIi	dIi-sinh	rename	gsub; derived
+sinDR.virama	dR-sinh	rename	gsub; derived
+sinDRI	dRI-sinh	rename	gsub; derived
+sinDRIi	dRIi-sinh	rename	gsub; derived
+sinDRa	dRa-sinh	rename	gsub; kernel
+sinDU	dU-sinh	rename	gsub; kernel
+sinDUu	dUu-sinh	rename	gsub; kernel
+sinDV.virama	dV-sinh	rename	gsub; derived
+sinDVI	dVI-sinh	rename	gsub; derived
+sinDVIi	dVIi-sinh	rename	gsub; derived
+sinDVU	dVU-sinh	rename	gsub; derived
+sinDVUu	dVUu-sinh	rename	gsub; derived
+sinDVa	dVa-sinh	rename	gsub; pro
+sinDa	da-sinh	rename	cmap; kernel
+sinDd.virama	dd-sinh	rename	gsub; kernel
+sinDdI	ddI-sinh	rename	gsub; kernel
+sinDdIi	ddIi-sinh	rename	gsub; kernel
+sinDdR.virama	ddR-sinh	rename	gsub; derived
+sinDdRI	ddRI-sinh	rename	gsub; derived
+sinDdRIi	ddRIi-sinh	rename	gsub; derived
+sinDdRa	ddRa-sinh	rename	gsub; derived
+sinDdU	ddU-sinh	rename	gsub; derived
+sinDdUu	ddUu-sinh	rename	gsub; derived
+sinDda	dda-sinh	rename	cmap; kernel
+sinDdh.virama	ddh-sinh	rename	gsub; kernel
+sinDdhI	ddhI-sinh	rename	gsub; kernel
+sinDdhIi	ddhIi-sinh	rename	gsub; kernel
+sinDdhU	ddhU-sinh	rename	gsub; derived
+sinDdhUu	ddhUu-sinh	rename	gsub; derived
+sinDdha	ddha-sinh	rename	cmap; kernel
+sinDh.virama	dh-sinh	rename	gsub; kernel
+sinDhI	dhI-sinh	rename	gsub; kernel
+sinDhIi	dhIi-sinh	rename	gsub; kernel
+sinDhR.virama	dhR-sinh	rename	gsub; derived
+sinDhRI	dhRI-sinh	rename	gsub; derived
+sinDhRIi	dhRIi-sinh	rename	gsub; derived
+sinDhRa	dhRa-sinh	rename	gsub; derived
+sinDhU	dhU-sinh	rename	gsub; derived
+sinDhUu	dhUu-sinh	rename	gsub; derived
+sinDha	dha-sinh	rename	cmap; kernel
+sinDvocR	dvocalicr._c-sinh	rename	gsub; pro
+sinDvocRr	dvocalicrr._c-sinh	rename	gsub; pro
+sinE	e-sinh	rename	cmap; kernel
+sinEe	ee-sinh	rename	cmap; kernel
+sinF.virama	f-sinh	rename	gsub; derived
+sinFI	fI-sinh	rename	gsub; derived
+sinFIi	fIi-sinh	rename	gsub; derived
+sinFR.virama	fR-sinh	rename	gsub; derived
+sinFRI	fRI-sinh	rename	parser; derived
+sinFRIi	fRIi-sinh	rename	parser; derived
+sinFRa	fRa-sinh	rename	gsub; derived
+sinFU	fU-sinh	rename	gsub; derived
+sinFUu	fUu-sinh	rename	gsub; derived
+sinFa	fa-sinh	rename	cmap; kernel
+sinG.virama	g-sinh	rename	gsub; derived
+sinGDha	gDha-sinh	rename	gsub; derived
+sinGI	gI-sinh	rename	gsub; derived
+sinGIi	gIi-sinh	rename	gsub; derived
+sinGR.virama	gR-sinh	rename	gsub; derived
+sinGRI	gRI-sinh	rename	gsub; derived
+sinGRIi	gRIi-sinh	rename	gsub; derived
+sinGRa	gRa-sinh	rename	gsub; derived
+sinGU	gU-sinh	rename	gsub; kernel
+sinGUu	gUu-sinh	rename	gsub; kernel
+sinGa	ga-sinh	rename	cmap; kernel
+sinGh.virama	gh-sinh	rename	gsub; derived
+sinGhI	ghI-sinh	rename	gsub; derived
+sinGhIi	ghIi-sinh	rename	gsub; derived
+sinGhR.virama	ghR-sinh	rename	gsub; derived
+sinGhRI	ghRI-sinh	rename	gsub; derived
+sinGhRIi	ghRIi-sinh	rename	gsub; derived
+sinGhRa	ghRa-sinh	rename	gsub; derived
+sinGhU	ghU-sinh	rename	gsub; derived
+sinGhUu	ghUu-sinh	rename	gsub; derived
+sinGha	gha-sinh	rename	cmap; kernel
+sinH.virama	h-sinh	rename	gsub; derived
+sinHI	hI-sinh	rename	gsub; derived
+sinHIi	hIi-sinh	rename	gsub; derived
+sinHR.virama	hR-sinh	rename	gsub; derived
+sinHRI	hRI-sinh	rename	gsub; derived
+sinHRIi	hRIi-sinh	rename	gsub; derived
+sinHRa	hRa-sinh	rename	gsub; derived
+sinHU	hU-sinh	rename	gsub; derived
+sinHUu	hUu-sinh	rename	gsub; derived
+sinHa	ha-sinh	rename	cmap; kernel
+sinI	i-sinh	rename	cmap; kernel
+sinIi	ii-sinh	rename	cmap; kernel
+sinJ.virama	j-sinh	rename	gsub; kernel
+sinJI	jI-sinh	rename	gsub; kernel
+sinJIi	jIi-sinh	rename	gsub; kernel
+sinJR.virama	jR-sinh	rename	gsub; derived
+sinJRI	jRI-sinh	rename	gsub; derived
+sinJRIi	jRIi-sinh	rename	gsub; derived
+sinJRa	jRa-sinh	rename	gsub; derived
+sinJU	jU-sinh	rename	gsub; derived
+sinJUu	jUu-sinh	rename	gsub; derived
+sinJa	ja-sinh	rename	cmap; kernel
+sinJh.virama	jh-sinh	rename	gsub; kernel
+sinJhI	jhI-sinh	rename	gsub; kernel
+sinJhIi	jhIi-sinh	rename	gsub; kernel
+sinJhR.virama	jhR-sinh	rename	gsub; derived
+sinJhRI	jhRI-sinh	rename	gsub; derived
+sinJhRIi	jhRIi-sinh	rename	gsub; derived
+sinJhRa	jhRa-sinh	rename	gsub; derived
+sinJhU	jhU-sinh	rename	gsub; derived
+sinJhUu	jhUu-sinh	rename	gsub; derived
+sinJha	jha-sinh	rename	cmap; kernel
+sinJny.virama	jny-sinh	rename	gsub; core
+sinJnyAa.ss01	jnyaa._c-sinh	rename	gsub; derived
+sinJnyAa.virama.ss01	jnyOo-sinh	rename	gsub; derived
+sinJnyAe.ss01	jnyae._c-sinh	rename	gsub; derived
+sinJnyAee.ss01	jnyaae._c-sinh	rename	gsub; derived
+sinJnyI	jnyI-sinh	rename	gsub; core
+sinJnyIi	jnyIi-sinh	rename	gsub; core
+sinJnyR.virama	jnyR-sinh	rename	gsub; derived
+sinJnyRI	jnyRI-sinh	rename	gsub; derived
+sinJnyRIi	jnyRIi-sinh	rename	gsub; derived
+sinJnyRa	jnyRa-sinh	rename	gsub; derived
+sinJnyU	jnyU-sinh	rename	gsub; core
+sinJnyUu	jnyUu-sinh	rename	gsub; core
+sinJnya	jnya-sinh	rename	cmap; core
+sinK.virama	k-sinh	rename	gsub; derived
+sinKI	kI-sinh	rename	gsub; derived
+sinKIi	kIi-sinh	rename	gsub; derived
+sinKRI	kRI-sinh	rename	gsub; derived
+sinKRIi	kRIi-sinh	rename	gsub; derived
+sinKRa	kRa-sinh	rename	gsub; derived
+sinKSs.virama	kSs-sinh	rename	gsub; derived
+sinKSsI	kSsI-sinh	rename	gsub; derived
+sinKSsIi	kSsIi-sinh	rename	gsub; derived
+sinKSsU	kSsU-sinh	rename	gsub; derived
+sinKSsUu	kSsUu-sinh	rename	gsub; derived
+sinKSsa	kSsa-sinh	rename	gsub; core
+sinKU	kU-sinh	rename	gsub; kernel
+sinKUu	kUu-sinh	rename	gsub; kernel
+sinKV.virama	kV-sinh	rename	gsub; plus
+sinKVI	kVI-sinh	rename	gsub; plus
+sinKVIi	kVIi-sinh	rename	gsub; plus
+sinKVU	kVU-sinh	rename	gsub; derived
+sinKVUu	kVUu-sinh	rename	gsub; derived
+sinKVa	kVa-sinh	rename	gsub; plus
+sinKa	ka-sinh	rename	cmap; kernel
+sinKh.virama	kh-sinh	rename	gsub; kernel
+sinKhI	khI-sinh	rename	gsub; kernel
+sinKhIi	khIi-sinh	rename	gsub; kernel
+sinKhR.virama	khR-sinh	rename	gsub; derived
+sinKhRI	khRI-sinh	rename	gsub; derived
+sinKhRIi	khRIi-sinh	rename	gsub; derived
+sinKhRa	khRa-sinh	rename	gsub; derived
+sinKhU	khU-sinh	rename	gsub; derived
+sinKhUu	khUu-sinh	rename	gsub; derived
+sinKha	kha-sinh	rename	cmap; kernel
+sinKundaliya	kunddaliya	rename	cmap; core
+sinL.virama	l-sinh	rename	gsub; derived
+sinLI	lI-sinh	rename	gsub; derived
+sinLIi	lIi-sinh	rename	gsub; derived
+sinLU	lU-sinh	rename	gsub; kernel
+sinLUu	lUu-sinh	rename	gsub; kernel
+sinLa	la-sinh	rename	cmap; kernel
+sinLl.virama	ll-sinh	rename	gsub; derived
+sinLlI	llI-sinh	rename	gsub; derived
+sinLlIi	llIi-sinh	rename	gsub; derived
+sinLlU	llU-sinh	rename	gsub; kernel
+sinLlUu	llUu-sinh	rename	gsub; kernel
+sinLla	lla-sinh	rename	cmap; kernel
+sinM.virama	m-sinh	rename	gsub; kernel
+sinMI	mI-sinh	rename	gsub; kernel
+sinMIi	mIi-sinh	rename	gsub; kernel
+sinMR.virama	mR-sinh	rename	gsub; derived
+sinMRI	mRI-sinh	rename	gsub; derived
+sinMRIi	mRIi-sinh	rename	gsub; derived
+sinMRa	mRa-sinh	rename	gsub; derived
+sinMU	mU-sinh	rename	gsub; derived
+sinMUu	mUu-sinh	rename	gsub; derived
+sinMa	ma-sinh	rename	cmap; kernel
+sinMatraAa	aasign-sinh	rename	cmap; kernel
+sinMatraAae	aaesign-sinh	rename	cmap; kernel
+sinMatraAe	aesign-sinh	rename	cmap; kernel
+sinMatraAi	aisign-sinh	rename	cmap; kernel
+sinMatraAu	ausign-sinh	rename	cmap; kernel
+sinMatraE	esign-sinh	rename	cmap; kernel
+sinMatraEe	eesign-sinh	rename	cmap; kernel
+sinMatraI	isign-sinh	rename	cmap; kernel
+sinMatraI.alt	isign-sinh.alt	rename	suffix; kernel; alternate suffix
+sinMatraI.alt1	isign-sinh.alt1	rename	suffix; kernel; alternate suffix
+sinMatraI.alt2	isign-sinh.alt2	rename	suffix; kernel; alternate suffix
+sinMatraI.alt3	isign-sinh.alt3	rename	suffix; kernel; alternate suffix
+sinMatraIi	iisign-sinh	rename	cmap; kernel
+sinMatraIi.alt	iisign-sinh.alt	rename	suffix; kernel; alternate suffix
+sinMatraIi.alt1	iisign-sinh.alt1	rename	suffix; kernel; alternate suffix
+sinMatraIi.alt2	iisign-sinh.alt2	rename	suffix; kernel; alternate suffix
+sinMatraIi.alt3	iisign-sinh.alt3	rename	suffix; kernel; alternate suffix
+sinMatraLl	vocalicllsign-sinh	rename	cmap; kernel
+sinMatraLs	vocaliclsign-sinh	rename	cmap; kernel
+sinMatraO	osign-sinh	rename	cmap; kernel
+sinMatraR	vocalicrsign-sinh	rename	cmap; kernel
+sinMatraRr	vocalicrrsign-sinh	rename	cmap; kernel
+sinMatraU	usign-sinh	rename	cmap; kernel
+sinMatraU.alt	usign-sinh.alt	rename	suffix; kernel; alternate suffix
+sinMatraU.alt1	usign-sinh.alt1	rename	suffix; kernel; alternate suffix
+sinMatraU.alt2	usign-sinh.alt2	rename	suffix; kernel; alternate suffix
+sinMatraU.alt3	usign-sinh.alt3	rename	suffix; kernel; alternate suffix
+sinMatraUu	uusign-sinh	rename	cmap; kernel
+sinMatraUu.alt	uusign-sinh.alt	rename	suffix; kernel; alternate suffix
+sinMatraUu.alt1	uusign-sinh.alt1	rename	suffix; kernel; alternate suffix
+sinMatraUu.alt2	uusign-sinh.alt2	rename	suffix; kernel; alternate suffix
+sinMatraUu.alt3	uusign-sinh.alt3	rename	suffix; kernel; alternate suffix
+sinMb.virama	mb-sinh	rename	gsub; kernel
+sinMbI	mbI-sinh	rename	gsub; kernel
+sinMbIi	mbIi-sinh	rename	gsub; kernel
+sinMbU	mbU-sinh	rename	gsub; derived
+sinMbUu	mbUu-sinh	rename	gsub; derived
+sinMba	mba-sinh	rename	cmap; kernel
+sinN.virama	n-sinh	rename	gsub; derived
+sinND.virama	nD-sinh	rename	gsub; derived
+sinNDI	nDI-sinh	rename	gsub; plus
+sinNDIi	nDIi-sinh	rename	gsub; plus
+sinNDRI	nDRI-sinh	rename	parser; derived
+sinNDRIi	nDRIi-sinh	rename	parser; derived
+sinNDRa	nDRa-sinh	rename	gsub; kernel
+sinNDU	nDU-sinh	rename	gsub; derived
+sinNDUu	nDUu-sinh	rename	gsub; derived
+sinNDa	nDa-sinh	rename	gsub; plus
+sinNDh.virama	nDh-sinh	rename	gsub; derived
+sinNDhI	nDhI-sinh	rename	gsub; plus
+sinNDhIi	nDhIi-sinh	rename	gsub; plus
+sinNDhU	nDhU-sinh	rename	gsub; derived
+sinNDhUu	nDhUu-sinh	rename	gsub; derived
+sinNDha	nDha-sinh	rename	gsub; plus
+sinNI	nI-sinh	rename	gsub; derived
+sinNIi	nIi-sinh	rename	gsub; derived
+sinNTh.virama	nTh-sinh	rename	gsub; derived
+sinNThI	nThI-sinh	rename	gsub; plus
+sinNThIi	nThIi-sinh	rename	gsub; plus
+sinNThU	nThU-sinh	rename	gsub; derived
+sinNThUu	nThUu-sinh	rename	gsub; derived
+sinNTha	nTha-sinh	rename	gsub; plus
+sinNU	nU-sinh	rename	gsub; derived
+sinNUu	nUu-sinh	rename	gsub; derived
+sinNV.virama	nV-sinh	rename	gsub; derived
+sinNVI	nVI-sinh	rename	gsub; derived
+sinNVIi	nVIi-sinh	rename	gsub; derived
+sinNVU	nVU-sinh	rename	gsub; derived
+sinNVUu	nVUu-sinh	rename	gsub; derived
+sinNVa	nVa-sinh	rename	gsub; pro
+sinNa	na-sinh	rename	cmap; kernel
+sinNd.virama	nd-sinh	rename	gsub; derived
+sinNdI	ndI-sinh	rename	gsub; derived
+sinNdIi	ndIi-sinh	rename	gsub; derived
+sinNdRa	ndRa-sinh	rename	parser; derived
+sinNdU	ndU-sinh	rename	gsub; kernel
+sinNdUu	ndUu-sinh	rename	gsub; kernel
+sinNda	nda-sinh	rename	cmap; kernel
+sinNdj.virama	nyj-sinh	rename	gsub; core
+sinNdjI	nyjI-sinh	rename	gsub; core
+sinNdjIi	nyjIi-sinh	rename	gsub; core
+sinNdjR.virama	nyjR-sinh	rename	gsub; derived
+sinNdjRa	nyjRa-sinh	rename	gsub; derived
+sinNdjU	nyjU-sinh	rename	gsub; core
+sinNdjUu	nyjUu-sinh	rename	gsub; core
+sinNdja	nyja-sinh	rename	cmap; core
+sinNg.virama	ng-sinh	rename	gsub; kernel
+sinNgI	ngI-sinh	rename	gsub; kernel
+sinNgIi	ngIi-sinh	rename	gsub; kernel
+sinNga	nga-sinh	rename	cmap; kernel
+sinNn.virama	nn-sinh	rename	gsub; derived
+sinNnI	nnI-sinh	rename	gsub; derived
+sinNnIi	nnIi-sinh	rename	gsub; derived
+sinNnU	nnU-sinh	rename	gsub; derived
+sinNnUu	nnUu-sinh	rename	gsub; derived
+sinNna	nna-sinh	rename	cmap; kernel
+sinNndd.virama	nndd-sinh	rename	gsub; kernel
+sinNnddI	nnddI-sinh	rename	gsub; kernel
+sinNnddIi	nnddIi-sinh	rename	gsub; kernel
+sinNnddU	nnddU-sinh	rename	gsub; derived
+sinNnddUu	nnddUu-sinh	rename	gsub; derived
+sinNndda	nndda-sinh	rename	cmap; kernel
+sinNng.virama	nng-sinh	rename	gsub; derived
+sinNngI	nngI-sinh	rename	gsub; derived
+sinNngIi	nngIi-sinh	rename	gsub; derived
+sinNngU	nngU-sinh	rename	gsub; derived
+sinNngUu	nngUu-sinh	rename	gsub; derived
+sinNnga	nnga-sinh	rename	cmap; kernel
+sinNy.virama	ny-sinh	rename	gsub; derived
+sinNyI	nyI-sinh	rename	gsub; derived
+sinNyIi	nyIi-sinh	rename	gsub; derived
+sinNyR.virama	nyR-sinh	rename	gsub; derived
+sinNyRI	nyRI-sinh	rename	gsub; derived
+sinNyRIi	nyRIi-sinh	rename	gsub; derived
+sinNyRa	nyRa-sinh	rename	gsub; kernel
+sinNyU	nyU-sinh	rename	gsub; kernel
+sinNyUu	nyUu-sinh	rename	gsub; kernel
+sinNya	nya-sinh	rename	cmap; kernel
+sinO	o-sinh	rename	cmap; kernel
+sinOo	oo-sinh	rename	cmap; kernel
+sinP.virama	p-sinh	rename	gsub; derived
+sinPI	pI-sinh	rename	gsub; derived
+sinPIi	pIi-sinh	rename	gsub; derived
+sinPR.virama	pR-sinh	rename	gsub; derived
+sinPRI	pRI-sinh	rename	gsub; derived
+sinPRIi	pRIi-sinh	rename	gsub; derived
+sinPRa	pRa-sinh	rename	gsub; derived
+sinPU	pU-sinh	rename	gsub; derived
+sinPUu	pUu-sinh	rename	gsub; derived
+sinPa	pa-sinh	rename	cmap; kernel
+sinPh.virama	ph-sinh	rename	gsub; kernel
+sinPhI	phI-sinh	rename	gsub; kernel
+sinPhIi	phIi-sinh	rename	gsub; kernel
+sinPhU	phU-sinh	rename	gsub; derived
+sinPhUu	phUu-sinh	rename	gsub; derived
+sinPha	pha-sinh	rename	cmap; kernel
+sinR.virama	r-sinh	rename	gsub; kernel
+sinRAae	rAae-sinh	rename	gsub; kernel
+sinRAe	rAe-sinh	rename	gsub; kernel
+sinRI	rI-sinh	rename	gsub; kernel
+sinRIi	rIi-sinh	rename	gsub; kernel
+sinRU	rU-sinh	rename	gsub; kernel
+sinRUu	rUu-sinh	rename	gsub; kernel
+sinRa	ra-sinh	rename	cmap; kernel
+sinRakar	rasign-sinh	rename	known sign
+sinRakar.long	rasign-sinh.long	rename	known sign
+sinRakar.medium	rasign-sinh.medium	rename	known sign
+sinRakar.short	rasign-sinh.short	rename	known sign
+sinReph	repha-sinh	rename	gsub; kernel
+sinS.virama	s-sinh	rename	gsub; derived
+sinSI	sI-sinh	rename	gsub; derived
+sinSIi	sIi-sinh	rename	gsub; derived
+sinSR.virama	sR-sinh	rename	gsub; derived
+sinSRI	sRI-sinh	rename	gsub; derived
+sinSRIi	sRIi-sinh	rename	gsub; derived
+sinSRa	sRa-sinh	rename	gsub; derived
+sinSU	sU-sinh	rename	gsub; derived
+sinSUu	sUu-sinh	rename	gsub; derived
+sinSa	sa-sinh	rename	cmap; kernel
+sinSh.virama	sh-sinh	rename	gsub; derived
+sinShI	shI-sinh	rename	gsub; derived
+sinShIi	shIi-sinh	rename	gsub; derived
+sinShR.virama	shR-sinh	rename	gsub; derived
+sinShRI	shRI-sinh	rename	gsub; derived
+sinShRIi	shRIi-sinh	rename	gsub; derived
+sinShRa	shRa-sinh	rename	gsub; derived
+sinShU	shU-sinh	rename	gsub; kernel
+sinShUu	shUu-sinh	rename	gsub; kernel
+sinSha	sha-sinh	rename	cmap; kernel
+sinSs.virama	ss-sinh	rename	gsub; derived
+sinSsI	ssI-sinh	rename	gsub; derived
+sinSsIi	ssIi-sinh	rename	gsub; derived
+sinSsR.virama	ssR-sinh	rename	gsub; derived
+sinSsRI	ssRI-sinh	rename	parser; derived
+sinSsRIi	ssRIi-sinh	rename	parser; derived
+sinSsRa	ssRa-sinh	rename	gsub; derived
+sinSsU	ssU-sinh	rename	gsub; derived
+sinSsUu	ssUu-sinh	rename	gsub; derived
+sinSsa	ssa-sinh	rename	cmap; kernel
+sinT.virama	t-sinh	rename	gsub; derived
+sinTI	tI-sinh	rename	gsub; derived
+sinTIi	tIi-sinh	rename	gsub; derived
+sinTR.virama	tR-sinh	rename	gsub; derived
+sinTRI	tRI-sinh	rename	gsub; derived
+sinTRIi	tRIi-sinh	rename	gsub; derived
+sinTRa	tRa-sinh	rename	gsub; derived
+sinTTh.virama	tTh-sinh	rename	gsub; derived
+sinTThI	tThI-sinh	rename	gsub; plus
+sinTThIi	tThIi-sinh	rename	gsub; plus
+sinTThU	tThU-sinh	rename	gsub; derived
+sinTThUu	tThUu-sinh	rename	gsub; derived
+sinTTha	tTha-sinh	rename	gsub; plus
+sinTU	tU-sinh	rename	gsub; kernel
+sinTUu	tUu-sinh	rename	gsub; kernel
+sinTV.virama	tV-sinh	rename	gsub; derived
+sinTVI	tVI-sinh	rename	gsub; plus
+sinTVIi	tVIi-sinh	rename	gsub; plus
+sinTVU	tVU-sinh	rename	gsub; derived
+sinTVUu	tVUu-sinh	rename	gsub; derived
+sinTVa	tVa-sinh	rename	gsub; plus
+sinTa	ta-sinh	rename	cmap; kernel
+sinTh.virama	th-sinh	rename	gsub; kernel
+sinThI	thI-sinh	rename	gsub; kernel
+sinThIi	thIi-sinh	rename	gsub; kernel
+sinThU	thU-sinh	rename	gsub; derived
+sinThUu	thUu-sinh	rename	gsub; derived
+sinTha	tha-sinh	rename	cmap; kernel
+sinTt.virama	tt-sinh	rename	gsub; kernel
+sinTtI	ttI-sinh	rename	gsub; kernel
+sinTtIi	ttIi-sinh	rename	gsub; kernel
+sinTtR.virama	ttR-sinh	rename	gsub; derived
+sinTtRI	ttRI-sinh	rename	gsub; derived
+sinTtRIi	ttRIi-sinh	rename	gsub; derived
+sinTtRa	ttRa-sinh	rename	gsub; derived
+sinTtTth.virama	ttTth-sinh	rename	gsub; derived
+sinTtTthI	ttTthI-sinh	rename	gsub; derived
+sinTtTthIi	ttTthIi-sinh	rename	gsub; derived
+sinTtTthU	ttTthU-sinh	rename	gsub; derived
+sinTtTthUu	ttTthUu-sinh	rename	gsub; derived
+sinTtTtha	ttTtha-sinh	rename	gsub; pro
+sinTtU	ttU-sinh	rename	gsub; derived
+sinTtUu	ttUu-sinh	rename	gsub; derived
+sinTta	tta-sinh	rename	cmap; kernel
+sinTth.virama	tth-sinh	rename	gsub; kernel
+sinTthI	tthI-sinh	rename	gsub; kernel
+sinTthIi	tthIi-sinh	rename	gsub; kernel
+sinTthU	tthU-sinh	rename	gsub; derived
+sinTthUu	tthUu-sinh	rename	gsub; derived
+sinTtha	ttha-sinh	rename	cmap; kernel
+sinU	u-sinh	rename	cmap; kernel
+sinUu	uu-sinh	rename	cmap; kernel
+sinV.virama	v-sinh	rename	gsub; kernel
+sinVI	vI-sinh	rename	gsub; kernel
+sinVIi	vIi-sinh	rename	gsub; kernel
+sinVR.virama	vR-sinh	rename	gsub; derived
+sinVRI	vRI-sinh	rename	gsub; derived
+sinVRIi	vRIi-sinh	rename	gsub; derived
+sinVRa	vRa-sinh	rename	gsub; derived
+sinVU	vU-sinh	rename	gsub; derived
+sinVUu	vUu-sinh	rename	gsub; derived
+sinVa	va-sinh	rename	cmap; kernel
+sinVirama	virama-sinh	rename	cmap; kernel
+sinVisarga	visargaya-sinh	rename	cmap; kernel
+sinVocalicR	vocalicr-sinh	rename	cmap; core
+sinVocalicl	vocalicl-sinh	rename	cmap; core
+sinVocalicll	vocalicll-sinh	rename	cmap; core
+sinY.post.virama	yasign_virama-sinh	rename	gsub; derived
+sinY.virama	y-sinh	rename	gsub; derived
+sinYI	yI-sinh	rename	gsub; derived
+sinYI.post	yasign_isign-sinh	rename	gsub; derived
+sinYIi	yIi-sinh	rename	gsub; derived
+sinYIi.post	yasign_iisign-sinh	rename	gsub; derived
+sinYU	yU-sinh	rename	gsub; derived
+sinYU.post	yasign_usign-sinh	rename	gsub; derived
+sinYUu	yUu-sinh	rename	gsub; derived
+sinYUu.post	yasign_uusign-sinh	rename	gsub; derived
+sinYa	ya-sinh	rename	cmap; kernel
+sinYa.post	yasign-sinh	rename	gsub; kernel
+sinvocalicRr	vocalicrr-sinh	rename	cmap; core

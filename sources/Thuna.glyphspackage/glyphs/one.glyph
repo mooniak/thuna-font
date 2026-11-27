@@ -2,24 +2,24 @@
 glyphname = one;
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 shapes = (
 {
 closed = 1;
 nodes = (
-(186,582,l),
-(161,582,l),
-(9,468,l),
-(9,427,l),
-(161,539,l),
-(144,540,l),
-(144,-27,l),
-(186,-27,l)
+(211,600,l),
+(211,0,l),
+(185,0,l),
+(185,542,l),
+(44,414,l),
+(27,434,l)
 );
 }
 );
 vertWidth = 0;
-width = 286;
+width = 325;
 }
 );
 note = "";

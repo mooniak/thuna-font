@@ -2,20 +2,22 @@
 glyphname = hyphen;
 layers = (
 {
-layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
 shapes = (
 {
 closed = 1;
 nodes = (
-(270,273,l),
-(67,273,l),
-(67,233,l),
-(270,233,l)
+(700,321,l),
+(700,279,l),
+(300,279,l),
+(300,321,l)
 );
 }
 );
 vertWidth = 0;
-width = 338;
+width = 453;
 }
 );
 note = "";

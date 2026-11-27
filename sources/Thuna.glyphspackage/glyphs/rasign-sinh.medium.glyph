@@ -1,0 +1,28 @@
+{
+glyphname = "rasign-sinh.medium";
+layers = (
+{
+background = {
+};
+layerId = "F027D35B-AA62-4868-B15E-2DB8BB4EA932";
+shapes = (
+{
+closed = 1;
+nodes = (
+(285,-150,l),
+(316,-25,l),
+(342,-32,l),
+(319,-123,l),
+(681,-123,l),
+(658,-32,l),
+(684,-25,l),
+(715,-150,l)
+);
+}
+);
+vertWidth = 0;
+width = 0;
+}
+);
+note = "";
+}
