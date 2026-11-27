@@ -1,0 +1,44 @@
+[
+ {
+  "family": "Thuna",
+  "commit": "337260871576c70b0629cb8a04894fcf81e8a481",
+  "commit_short": "3372608",
+  "version": "0.001",
+  "generated_at": "2026-11-27T08:22:42Z",
+  "stage": {
+   "n": 9,
+   "name": "Conjunct layer",
+   "cumulative": 100,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "fail",
+   "pass_rate": 71,
+   "counts": {
+    "ERROR": 1,
+    "FAIL": 4,
+    "WARN": 15,
+    "SKIP": 51,
+    "INFO": 12,
+    "PASS": 77
+   },
+   "total_checks": 160
+  },
+  "run_url": "https://github.com/mooniak/thuna-font/actions/runs/45965058432",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/thuna-font"
+ }
+]

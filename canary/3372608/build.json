@@ -1,0 +1,106 @@
+{
+  "id": "thuna",
+  "family": "Thuna",
+  "scripts": [
+    "Sinh"
+  ],
+  "version": "0.001",
+  "channel": "canary",
+  "commit": "337260871576c70b0629cb8a04894fcf81e8a481",
+  "commit_short": "3372608",
+  "ref_name": "dev",
+  "repository": "mooniak/thuna-font",
+  "run_url": "https://github.com/mooniak/thuna-font/actions/runs/45965058432",
+  "actor": "pathumego",
+  "generated_at": "2026-11-27T08:22:42Z",
+  "qa": {
+    "profile": "mooniak",
+    "verdict": "fail",
+    "pass_rate": 71,
+    "counts": {
+      "ERROR": 1,
+      "FAIL": 4,
+      "WARN": 15,
+      "SKIP": 51,
+      "INFO": 12,
+      "PASS": 77
+    },
+    "total_checks": 160
+  },
+  "stage": {
+    "n": 9,
+    "name": "Conjunct layer",
+    "cumulative": 100,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": false,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/otf/ThunaCANARY-Regular.otf",
+      "format": "otf",
+      "bytes": 74412,
+      "sha256": "c728328ae10d11d2808b7b45cf2011adb80598bd9caabae30134ea6e7b214b69",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/ThunaCANARY-Regular.ttf",
+      "format": "ttf",
+      "bytes": 193508,
+      "sha256": "547d13e57d8a4e5d79f70c067fe440d892162a17fc66f2dd8d1b1be099a01761",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/ThunaCANARY-Regular.woff2",
+      "format": "woff2",
+      "bytes": 59888,
+      "sha256": "c67fe16bb53ae7798a6171f07752cbdfb4ef7b2a3822aeb3fdfa1a6f2a7b3d8d",
+      "style": "Regular",
+      "kind": "static"
+    }
+  ],
+  "proof_gate": {
+    "stage": 9,
+    "gated": true,
+    "shown": [
+      "classical-texts",
+      "conjuncts",
+      "devanagari-pangram",
+      "display-strings",
+      "indo-arabic-numerals",
+      "kern-pairs",
+      "libreoffice-ui-strings",
+      "marks",
+      "mixed-script",
+      "multiscript",
+      "numerals",
+      "ot-features",
+      "pali-and-sanskrit-words",
+      "prose",
+      "punctuation",
+      "rakar",
+      "shape-groups",
+      "signs-combinations",
+      "sinhala-alphabet",
+      "sinhala-pangram",
+      "spacing_strings",
+      "structured-texts",
+      "tamil-pangram",
+      "test-texts-stages"
+    ],
+    "withheld": [],
+    "missing_for_next": [],
+    "scripts": []
+  }
+}
