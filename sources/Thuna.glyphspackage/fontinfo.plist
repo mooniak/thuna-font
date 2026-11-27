@@ -1335,6 +1335,10 @@ type = "italic angle";
 );
 properties = (
 {
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
 key = designers;
 values = (
 {

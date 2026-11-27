@@ -1,19 +1,18 @@
 # Thuna Font
 
 [![Build](https://img.shields.io/badge/build-GitHub%20Actions-blue?logo=githubactions&logoColor=white)](https://github.com/mooniak/thuna-font/actions)
-[![License: Mooniak EULA](https://img.shields.io/badge/license-Mooniak%20EULA-lightgrey)](EULA.txt)
-![Repository: private](https://img.shields.io/badge/repo-private-lightgrey)
+[![License: OFL 1.1](https://img.shields.io/badge/license-OFL--1.1-green)](OFL.txt)
 
-Thuna is a Sinhala typeface by Aravinda Illangangedara, maintained by [Mooniak](https://mooniak.com/). It is a premium font, distributed under the Mooniak Fonts EULA. It is in an early (alpha) stage.
+Thuna is a Sinhala typeface by Aravinda Illangangedara, maintained by [Mooniak](https://mooniak.com/). It is a free font, published under the SIL Open Font License. It is in an early (alpha) stage.
 
 ![Thuna specimen](documentation/image1.png)
 ![Thuna character set](documentation/image2.png)
 
 ## About
 
-Thuna started from a FontForge drawing (`sources/1-drawing/Thuna.sfd`, kept for reference) and a template of letters in `documentation/`. The source is now a Glyphs package, `sources/Thuna.glyphspackage`, with [LankaGlyphset](https://github.com/mooniak/lanka-glyphsets) glyph names (`ka-sinh`, `aasign-sinh`, …) and OpenType features generated for them.
+Thuna started from a FontForge drawing (`sources/1-drawing/Thuna.sfd`, kept for reference); the current outlines come from Akuru Foundry's `AFThuna.ttf` (`sources/1-drawing/AFThuna.ttf`) and a template of letters in `documentation/`. The source is now a Glyphs package, `sources/Thuna.glyphspackage`, with [LankaGlyphset](https://github.com/mooniak/lanka-glyphsets) glyph names (`ka-sinh`, `aasign-sinh`, …) and OpenType features generated for them.
 
-- 348 glyphs, one master (Regular), 1000 units per em.
+- 540 glyphs, one master (Regular), 1000 units per em.
 - Sinhala letters, vowel signs, hal forms, the drawn conjuncts, Sinhala Lith digits and a basic Latin set.
 - Alternates for the i / ii / u / uu signs and virama (`ss01`, `ss02`).
 
@@ -37,8 +36,8 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## License
 
-Mooniak Fonts EULA — proprietary, all rights reserved. This font is **not** open source and is not licensed under the SIL Open Font License. See [EULA.txt](EULA.txt).
-For licensing, contact hello@mooniak.com.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is
+available with a FAQ at https://openfontlicense.org; the full text is in [OFL.txt](OFL.txt).
 
 ## Repository Layout
 

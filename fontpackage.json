@@ -9,18 +9,19 @@
     "Sinh"
   ],
   "description": "Thuna, a Sinhala typeface designed by Aravinda Illangangedara.",
-  "license": "Mooniak-Fonts-EULA",
-  "tier": "premium",
+  "license": "OFL-1.1",
+  "tier": "free",
   "channels": [
     "canary",
-    "dev"
+    "dev",
+    "release"
   ],
   "versions_provider": "tags",
   "repository": {
     "url": "https://github.com/mooniak/thuna-font",
     "type": "git"
   },
-  "homepage_url": "",
+  "homepage_url": "https://src.mooniak.com/thuna-font/",
   "issues_url": "https://github.com/mooniak/thuna-font/issues/",
   "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
   "foundry": {
