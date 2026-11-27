@@ -1374,7 +1374,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the Mooniak Fonts EULA. It is not open source and is not licensed under the SIL Open Font License. For licensing, contact hello@mooniak.com.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
